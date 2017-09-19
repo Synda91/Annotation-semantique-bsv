@@ -1,0 +1,63 @@
+(NP moutarde/NC brune/ADJ d’/NC automne/NC )
+
+(NP ce/DET bulletin/NC ) (VN fait/V ) (NP état/NC ) (PP des/P+D observations/NC ) (VN réalisées/VPP ) (PP entre/P le/DET 10/ADJ ) (CONJ et/CC ) (NP le/DET 11/ADJ mars/NC ) (PP sur/P 26/DET parcelles/NC ) (PP de/P blé/NC tendre/NC )
+:/PONCT (NP 9/DET ) (PP dans/P l’/DET allier/NC ) (/PONCT (NP sologne/NC ) ,/PONCT (NP bocage/NC ) (CONJ et/CC ) (NP forterre/NC ) )/PONCT ,/PONCT (AP 11/ADJ ) (PP dans/P le/DET puy-de-dôme/NC ) (/PONCT (NP limagne/NC nord/ADJ ) (CONJ et/CC ) (PP limagne/P+D sud/NC ) )/PONCT ,/PONCT (AP 5/ADJ )
+(PP en/P haute-loire/NC ) (/PONCT (NP velay/NC ) (CONJ et/CC ) (AP brivadois/ADJ ) )/PONCT ,/PONCT (CONJ et/CC ) (AP 1/ADJ ) (PP dans/P le/DET cantal/NC ) (/PONCT (NP bassin/NC ) (PP d’/P aurillac/NC ) )/PONCT ./PONCT
+
+(NP bulletin/NC ) (PP de/P santé/NC ) (PP du/P+D végétal/NC céréales/NC ) (PP à/P paille/NC )
+
+(NP céréales/NC ) (PP à/P paille/DET stades/NC ) (NP des/DET parcelles/NC ) (PP en/P région/NC centre/ADJ )
+
+(NP pucerons/NC ) (NP les/DET symptômes/NC ) (PP de/P jno/NC ) (/PONCT (NP jaunisse/NC nanisante/ADJ ) (PP de/P l’/DET orge/NC ) )/PONCT (PP sur/P escourgeon/NC ) ,/PONCT (NP orges/NC ) (PP d'/P hiver/NC ) (CONJ et/CC ) (PP de/P printemps/NC ) -/PONCT (NP apparition/NC possible/ADJ 15/ADJ ) (PP à/P 30/DET jours/NC ) (PP après/P l'/DET inoculation/NC ) -/PONCT (VN jaunissement/V ) (NP débutant/NC ) (PP à/P l'/DET extrémité/NC ) des/P+D
+(NP feuilles/NC ) (/PONCT (NP feuilles/NC âgées/ADJ ) )/PONCT -/PONCT (VN courant/VPR ) (NP montaison/NC ) :/PONCT (NP plante/NC ) (PP à/P tallage/NC excessif/ADJ ) (VN restant/VPR ) (NP naines/NC ) (CONJ et/CC ) (VN pouvant/VPR ) (VN disparaître/VINF ) -/PONCT (NP parcelle/NC ) (PP d'/P aspect/NC ) (NP moutonné/NC ) -/PONCT (NP retard/NC ) (PP de/P maturité/NC )
+
+(NP observations/NC ) :/PONCT (PP sur/P 28/DET parcelles/NC ) (VN observées/VPP ) (/PONCT (NP 18/DET blé/NC ) (PP tendre/P d’/DET hiver/NC ) ,/PONCT (NP 10/DET orge/NC ) (NP d’/ADJ hiver/NC ) ,/PONCT (NP 4/DET parcelles/NC ) (PP de/P blé/NC ) (VN ont/V présenté/VPP ) (NP 1/DET à/NC )
+(NP 4/DET %/NC ) (PP de/P plantes/NC infestées/ADJ ) (/PONCT (NP le/DET subdray/NC –/ADJ 18/NC ) ,/PONCT (NP argy/NC ) (PP –/P 36/PRO ) ,/PONCT (NP neuvy-le-roi/NC ) (PP –/P 37/NC ) ,/PONCT (NP fosse/NC ) (PP –/P 41/NC ) )/PONCT (CONJ et/CC ) (NP 1/DET parcelle/NC d’/ADJ orge/NC )
+(VN a/V présenté/VPP ) (NP 2/DET %/NC ) (PP de/P plantes/NC infestées/ADJ ) (/PONCT (NP maillebois/NC ) -/PONCT (AP 28/ADJ ) )/PONCT ./PONCT (NP une/DET parcelle/NC ) (VN était/V ) (AdP déjà/ADV ) (VN signalée/VPP ) (NP la/DET semaine/NC ) passée/VPP
+(/PONCT (NP le/DET subdray/NC ) )/PONCT ./PONCT (CONJ  bien_que/CS ) (NP son/DET pourcentage/NC ) (PP de/P plantes/NC habitées/ADJ ) (CONJ soit/CC ) (AdP nettement/ADV ) (AP inférieur/ADJ ) (PP au/P+D seuil_de/NC )
+(NP nuisibilité/NC ) ,/PONCT (NP cette/DET parcelle/NC ) (VN doit/V ) (VN être/VINF ) (AP surveillée/ADJ ) (AdP régulièrement/ADV ) ./PONCT (AdP  en_effet/ADV ) ,/PONCT (PP en/P cas/NC ) (PP de/P conditions/NC )
+(NP climatiques/ADJ favorables/ADJ ) (PP aux/P+D pucerons/NC ) ,/PONCT (NP le/DET risque/NC ) (PP pour/P cette/DET parcelle/NC ) (VN deviendra/V ) (NP important/NC ) ./PONCT 
+
+(NP limaces/DET contexte/NC ) (PP d’/P observation/NC ) (NP la/DET présence/NC ) (PP de/P limaces/NC ) (VN a/V été/VPP signalée/VPP ) (PP dans/P 7/DET parcelles/NC ) (PP de/P blé/NC ) (VN tendre/VINF ) (NP d’/DET hiver/NC ) (CONJ et/CC ) (NP 3/DET parcelles/NC ) (NP d’/ADJ orge/NC )
+(NP d’/ADJ hiver/NC )
+
+(NP bulletin/NC ) (PP de/P santé/NC ) (PP du/P+D végétal/NC céréales/NC ) (PP à/P paille/NC )
+
+(NP blé/NC ) (NP tendre/NC stade/ADJ rappel/NC ) (PP des/P+D stades/NC ) (PP de/P sensibilité/NC ) (PP aux/P+D maladies/NC )
+
+(NP blé/NC dur/ADJ stade/NC rappel/NC ) (PP des/P+D stades/NC ) (PP de/P sensibilité/NC ) (PP aux/P+D maladies/NC )
+
+(NP orge/DET d’/NC ) (PP hiver/P stade/NC ) (VN contexte/V ) (NP d’/DET observations/NC ) (PP entre/P le/DET 11/NC ) (CONJ et/CC ) (NP le/DET 15/ADJ mars/NC ) (/PONCT (NP semaine/NC 11/ADJ ) )/PONCT ,/PONCT (NP 42/DET parcelles/NC ) (PP d’/P orge/NC d’/ADJ hiver/NC ) (VN ont/V fait/VPP )
+(NP l’/DET objet/NC ) (PP d’/P une/DET observation/NC ) ./PONCT (NP la/DET majorité/NC ) (VN d’/V ) (PP entre/P elles/PRO ) (VN est/V ) (PP à/P épi/NC 1/ADJ cm/NC ) (/PONCT (NP 52/DET %/NC ) )/PONCT ./PONCT (PP comme/P la/DET semaine/NC précédente/ADJ ) ,/PONCT
+(NP la/DET situation/NC ) (VN la/V ) (AdP plus/ADV ) (AP précoce/ADJ ) ,/PONCT (PP dans/P le/DET loiret/NC ) ,/PONCT (VN est/V ) (PP au/P+D stade/NC 1/ADJ nœud/NC ) (/PONCT (NP etincel/NC ) (VN semée/VPP ) (NP le/DET 19/ADJ octobre/NC ) )/PONCT ./PONCT 
+
+(PP l’/P oïdium/NC ) (NP n’/NC ) (VN est/V ) (AdP plus/ADV ) (NP une/DET maladie/NC dominante/ADJ ) (PP sur/P blé/NC ) (VN tendre/VINF ) (CONJ mais/CC ) (NP des/DET différences/NC ) (PP de/P tolérance/NC variétales/ADJ )
+(VN existent/V ) ./PONCT 
+
+(NP l’/DET oïdium/NC n’/NC ) (VN est/V pas/ADV ) (NP une/DET maladie/NC dominante/ADJ ) (PP sur/P blé/NC dur/ADJ ) ./PONCT (NP les/DET différences/NC ) (PP de/P tolérance/NC variétales/NC ) (VN sont/V ) (AdP peu/ADV )
+(NP marquées/NC ) ./PONCT (NP l’/DET oïdium/NC ) (VN est/V ) (AdP très/ADV ) (VN lié/VPP ) (PP à/P un/DET excès/NC d’/ADJ azote/NC précoce/NC ) (CONJ ou/CC ) (PP à/P un/DET excès/NC ) (PP de/P végétation/NC ) ./PONCT 
+
+(VN retrouvez/V ) (NP le/DET classement/NC phoma/NC ) (PP de/P l’/DET ensemble/NC ) (PP des/P+D variétés/NC ) (PP de/P colza/NC d’/ADJ hiver/NC ) (PP dans/P le/DET guide/NC ) (PP de/P culture/NC colza/NC )
+(PP du/P+D cetiom/NC ) (CONJ et/CC ) (PP sur/P www.myvar.fr/NC ) ./PONCT 
+
+(NP les/DET plantes/NC ) (VN présentant/VPR ) (NP des/DET macules/NC ) (PP de/P phoma/NC ) (VN sont/V ) (PP en/P progression/NC ) (NP cette/DET semaine/NC ) ./PONCT (PP dans/P 40/DET %/NC ) (PP des/P+D parcelles/NC ) (NP on/CLS ) (VN note/V ) (AdP  en_moyenne/ADV ) (NP 10/DET %/NC ) (PP de/P pieds/NC ) (VN touchés/VPP ) ./PONCT (NP le/DET risque/NC ) (PP phoma/P n’/NC ) (VN existe/V ) (AdP  que_lorsque/ADV ) (NP plusieurs/DET conditions/NC ) (VN sont/V ) (AP réunies/ADJ ) (NP colza/NC ) (VN classé/V ) (AdP peu/ADV ) (AP sensible/ADJ ) (/PONCT (NP ps/NC ) )/PONCT ,/PONCT
+(NP pic/NC ) (PP de/P sporulation/NC maximal/ADJ ) (VN enregistré/VPP ) (CONJ  alors_que/CS ) (NP les/DET plantes/NC )
+
+(NP les/DET conditions/NC d’/ADJ humidité/NC ) (NP des/DET derniers/ADJ jours/NC ) (/PONCT (NP pluies/NC ) ,/PONCT (NP brouillards/NC ) )/PONCT (VN sont/V ) (AP propices/ADJ ) (PP à/P un/DET développement/NC ) (PP de/P la/DET maladie/NC ) ./PONCT (NP le/DET mildiou/NC ) (VN a/V été/VPP observé/VPP ) (PP dans/P plusieurs/DET parcelles/NC ) (PP de/P la/DET région/NC ) ./PONCT (NP c’/NC ) (VN est/V ) (NP une/DET cause/NC supplémentaire/ADJ ) (PP du/P+D manque/NC ) (PP de/P vigueur/NC ) (PP sur/P les/DET petits/ADJ colzas/NC ) ./PONCT (PP phoma/P des/DET macules/NC ) (PP de/P phoma/NC ) (VN sont/V observées/VPP ) (PP sur/P 29/DET %/NC ) (PP des/P+D parcelles/NC ) (/PONCT (PP maximum/P 15/DET %/NC ) (PP de/P plantes/NC touchées/ADJ ) )/PONCT ./PONCT (NP le/DET risque/NC ) (PP phoma/P n’/NC ) (VN existe/V ) (AdP  que_lorsque/ADV ) (NP plusieurs/DET conditions/NC ) (VN sont/V ) (AP réunies/ADJ ) :/PONCT (NP colza/NC ) (VN classé/V ) (AdP peu/ADV ) (AP sensible/ADJ ) (/PONCT (NP ps/NC ) )/PONCT ,/PONCT (NP pic/NC ) (PP de/P sporulation/NC maximal/ADJ ) (VN enregistré/VPP ) (AdP alors/ADV ) (CONJ que/CS ) (NP les/CLO )
+(NP plantes/NC ) (VN sont/V ) (AdP peu/ADV ) (VN développées/VPP ) (/PONCT (AdP moins/ADV ) (PP de/P 6/DET feuilles/NC ) )/PONCT (CONJ et/CC ) (AdP donc/ADV ) (AP sensibles/ADJ ) (CONJ ou/CC ) (AdP bien/ADV ) (CONJ si/CS ) (NP on/CLS ) (VN cumule/V ) (NP plusieurs/DET facteurs/NC aggravants/ADJ ) (/PONCT (AP forte/ADJ ) (NP densité/NC ) ,/PONCT (NP mulch/NC ) (PP de/P pailles/NC ) (PP en/P surface/NC ) ,/PONCT (NP qui/PROREL )
+(VN conduisent/V ) (PP à/P une/DET élongation/NC ) (PP de/P l’/DET hypocotyle/NC ) ,/PONCT (NP excès/NC ) (PP d’/P eau/NC ) )/PONCT ./PONCT (VN retrouvez/V ) (NP le/DET classement/NC phoma/NC ) (PP de/P l’/DET ensemble/NC ) (PP des/P+D variétés/NC ) (PP de/P colza/NC d’/ADJ hiver/NC ) (PP dans/P le/DET guide/NC ) (PP de/P culture/NC colza/NC )
+(PP du/P+D cetiom/NC ) (CONJ et/CC ) (PP sur/P www.cetiom.fr/DET photo/NC ) (NP cetiom/DET ) :/PONCT (NP macules/NC ) (PP de/P phoma/NC ) (PP sur/P feuilles/NC )
+(VN retrouvez/V ) (NP le/DET classement/NC phoma/NC ) (PP de/P l’/DET ensemble/NC ) (PP des/P+D variétés/NC ) (PP de/P colza/NC d’/ADJ hiver/NC ) (PP dans/P le/DET guide/NC ) (PP de/P culture/NC colza/NC )
+(PP du/P+D cetiom/NC ) (CONJ et/CC ) (PP sur/P www.myvar.fr/NC ) ./PONCT (NP photo/NC ) (NP cetiom/DET ) :/PONCT (NP macules/NC ) (PP de/P phoma/NC ) (PP sur/P feuilles/NC )
+
+(NP orges/NC d’/ADJ hiver/NC ) (CONJ et/CC ) (NP escourgeons/NC ) ./PONCT (NP l’/DET analyse/NC ) (PP de/P risque/NC ) (VN repose/V ) (NP cette/DET semaine/NC ) (PP sur/P l’/DET observation/NC ) (PP de/P 23/DET parcelles/NC ) (/PONCT (AP 6/ADJ ) (PP dans/P l’/DET yonne/NC ) ,/PONCT (NP 3/NC ) (PP dans/P la/NC )
+(NP nièvre/NC ) ,/PONCT (NP 10/DET ) (PP en/P côte/NC ) (PP d’/P or/NC ) (CONJ et/CC ) (NP 4/NC ) (PP en/P saône/NC ) (CONJ et/CC ) (NP loire/NC ) )/PONCT ./PONCT 
+
+(NP les/DET pois/NC d’/ADJ hiver/NC ) (VN sont/V ) (PP au/P+D stade/NC 10/ADJ ) (PP à/P 12/DET feuilles/NC ) ./PONCT (NP leur/DET état/NC sanitaire/ADJ ) (VN est/V ) (AP bon/ADJ ) ./PONCT (PP sous/P l’/DET effet/NC ) (PP du/P+D réchauffement/NC significatif/ADJ ) (PP des/P+D températures/NC ) ,/PONCT (NP les/DET pois/NC ) (PP de/P printempsse/NC ) (VN sont/V ) (AdP rapidement/ADV )
+(VN développés/VPP ) (PP depuis/P une/DET semaine/NC ) ./PONCT (NP la/DET majorité/NC ) (PP des/P+D 8/ADJ parcelles/NC ) (VN observées/VPP ) (NP cette/DET semaine/NC ) (VN atteint/V ) (NP le/DET stade/NC 3/ADJ –/NC 4/ADJ )
+(NP feuilles/NC ) ./PONCT 
+
+(NP sitones/NC ) (PP dans/P les/DET pois/NC ) (PP de/P printemps/NC ) (NP les/DET conditions/NC climatiques/ADJ actuelles/ADJ ) (/PONCT (NP températures/NC moyennes/ADJ supérieures/ADJ ) (PP à/P 12/DET °c/NC ) (CONJ et/CC ) (NP bon/ADJ ensoleillement/NC ) )/PONCT
+(VN sont/V ) (AP favorables/ADJ ) (PP aux/P+D sitones/NC ) ,/PONCT (VN d’/V ) (AdP  autant_plus/ADV ) (PP dans/P la/DET phase/NC ) (PP de/P risque/NC ) (NP qui/PROREL ) (NP s’/CLO ) (VN étend/V jusqu’/VPP ) (PP au/P stade/NC 6/ADJ feuilles/NC ) ./PONCT (VN apprécier/VINF ) (NP le/DET risque/NC ) :/PONCT (VN observer/VINF ) (NP 10/DET plantes/NC ) ,/PONCT (VN choisies/VPP ) (PP au/P+D hasard/NC ) ,/PONCT (CONJ espacées/CS ) (NP les/DET unes/NC ) (PP des/P+D autres/ADJ d’/NC ) (AdP  au_moins/ADV ) (NP quelques/DET mètres/NC ) ,/PONCT (NP l’/DET observation/NC ) (VN portera/V ) (PP sur/P les/DET morsures/NC ) (PP d’/P adultes/NC ) (PP sur/P les/DET stipules/NC ) ./PONCT (NP noter/NC ) (PP l’/P intensité/NC ) (PP de/P l’/NC ) (VN attaque/V ) (PP sur/P les/DET 2/ADJ stipules/NC ) (PP du/P+D bas/NC ) :/PONCT (AP 0/ADJ ) :/PONCT (AdP pas/ADV ) (PP de/P morsures/NC 1/ADJ ) :/PONCT (PP de/P 1/DET ) (PP à/P 5/DET morsures/NC 2/ADJ ) :/PONCT (PP de/P 5/DET ) (PP à/P 10/DET morsures/NC 3/ADJ ) :/PONCT (PP  plus_de/P 10/DET morsures/NC ) (NP le/DET seuil/NC ) (PP de/P nuisibilité/NC ) (VN est/V fixé/VPP ) (PP à/P 10/DET morsures/NC ) (AdP  en_moyenne/ADV ) (PP sur/P les/DET 2/NC premières/ADJ feuilles/NC ) ./PONCT (VN renouveler/VINF ) (NP les/DET comptages/NC chaque/ADJ semaine/NC ) ,/PONCT (NP jusqu’/NC ) (PP au/P+D stade/NC 6/ADJ feuilles/NC ) ./PONCT 
+
+(AP grandes/ADJ ) (NP cultures/NC ) (NP n°/NC 20/ADJ ) (PP du/P+D 05/ADJ avril/NC ) (NP 2011/DET moutarde/NC brune/ADJ d’/NC automne/ADJ ) (NP le/DET réseau/NC d’/ADJ observation/NC ) (NP le/DET réseau/NC ) (VN est/V constitué/VPP ) (PP de/P 12/DET parcelles/NC ) (PP sur/P la/DET région/NC bourgogne/ADJ ) ,/PONCT (NP cette/DET semaine/NC 12/ADJ ) (PP sur/P 12/PRO ) (VN ont/V été/VPP observées/VPP ) ./PONCT

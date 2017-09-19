@@ -1,0 +1,42 @@
+﻿moutarde	moutarde brune
+
+blé	blé tendre
+
+céréales à paille	à paille	céréales
+
+céréales à paille	à paille	céréales
+
+orges d’hiver	orges
+
+blé tendre d’hiver	blé tendre	blé
+orge d’hiver	orge
+
+blé tendre d’hiver	blé tendre	blé
+orge d’hiver	orge
+
+céréales à paille	à paille	céréales
+
+blé tendre	blé
+
+blé dur	blé
+
+orge d’hiver	orge
+
+blé tendre	blé
+
+blé dur	blé
+
+colza d’hiver	colza
+
+colza d’hiver	colza
+
+colza d’hiver	colza
+
+orges d’hiver	orges
+
+pois d’hiver	pois
+pois de printemps	pois
+
+pois de printemps	pois
+
+moutarde	moutarde brune
