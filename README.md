@@ -1,8 +1,8 @@
 # Annotation-semantique-bsv
 
-Ces modules sont uilisés pour l'annotation sémantique des bulletins de santé du végétal (BSV). L'annotation assurée par ces modules est une annotation thématique, c'est à dire, elle classe les BSVs selon les cultures qu'ils représentent.
-Cette annotation est faites sur quatre étapes:
-  - Annotation sémantique automatique: Cette phase utilise l'outil d'annotation automique OMTAT et un thésaurus pour la classification des cultures pour faire l'annotation.
+Ces modules sont utilisés pour l'annotation sémantique des bulletins de santé du végétal (BSV). L'annotation assurée par ces modules est une annotation thématique, c'est à dire, elle classe les BSVs selon les cultures qu'ils représentent.
+Cette annotation est faite sur quatre étapes:
+  - Annotation sémantique automatique: Cette phase utilise l'outil d'annotation automique OMTAT et un thésaurus 'FrenchCropUsage' pour la classification des cultures pour faire l'annotation.
   - Désambiguîsation: A cause des annotations multiples données pour une seule culture par OMTAT, cette phase permet d'assigner à chaque culture une seule annotation qui est l'annotation la plus spécifique. Pour ce faire, deux méthodes ont été implémentées. La première consiste à prendre tout simplement le label le plus long. La deuxième fait passer le BSV à l'outil d'étiquetage syntaquique SEM (Segmenteur-Étiqueteur Markovien) pour la formation des groupes nominaux et de choisir le label qui couvre le plus l'intégralité du groupe nominal. Et puisque les résultats de SEM n'étaient pas aussi précis, on a proposé une méthode pour améliorer ces résultats appelée SEM amélioré.
   - Filtrage: Cette étape permet de nettoyer et de filtrer la sortie d'OMTAT. Deux méhodes ont été proposées: filtrage par fréquence et filtratge par ressource externe. Le filtrage par fréquence élimine les cultures ayant une fréquence d'occurrence inférieur à un seuil. Le filtrage par ressource externe utilise l'annotation semi-automautique faite sur les BSVs et qui donne la grande catégorie des BSVs pour filtrer la sortie d'OMTAT. En effet, si une culture n'appartient pas à la catégorie asignée au BSV par l'annotation semi-automatique, elle sera éliminée.
-  - Annotation sémantique des paragraphes: Elle permet d'assigner à chaque paragraphe la culture correspondante en se basnat sur la fréquence d'occurrence des cultures.
+  - Annotation sémantique des paragraphes: Elle permet d'assigner à chaque paragraphe la culture correspondante en se basant sur la fréquence d'occurrence des cultures.
