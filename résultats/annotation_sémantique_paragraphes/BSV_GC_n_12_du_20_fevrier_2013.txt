@@ -1,0 +1,149 @@
+<cultureAuto=" colza colza">
+<paraConstruit>grandes cultures n° 12 du 20 février 2013
+a retenir cette semaine
+- mettre en place les cuvettes jaunes afin de capturer les premiers
+charançons dès que les températures vont remonter
+- les <skos:prefLabel = "colza">colzas</skos:prefLabel = "colza"> poursuivent leur croissance (évolution de la biomasse)
+même si pour l’instant les <skos:prefLabel = "colza">colzas</skos:prefLabel = "colza"> ont très peu évolué en termes de
+stades. la quasi-totalité des parcelles sont au stade c1 (reprise de végétation)
+avec apparition de jeunes feuilles.</paraConstruit>
+</cultureAuto=" colza colza">
+
+<cultureAuto=" colza colza">
+<paraConstruit>réseau 2012-2013
+afin d’apprécier les captures d’insectes, il est opportun de remettre en place les cuvettes et de procéder à des relevés réguliers.
+de même il serait judicieux d’effectuer un contrôle dans les plantes pour évaluer la
+présence de larves et d’éventuels dégâts de charançons et d’altises (atteinte du
+bourgeon terminal) notamment sur les parcelles où une activité d’adultes avait été
+mise en évidence à l’automne. a ce jour une parcelle de l’yonne à gisy-les-nobles
+recense 2% de plantes avec présence de larves de grosses altises. l’observation
+doit reposer sur 20 plantes réparties en 4 fois 5 plantes à se suivre, soit 4 placettes
+différentes sur la zone d’observation.</paraConstruit>
+</cultureAuto=" colza colza">
+
+<cultureAuto="colza">
+<paraConstruit>stade des <skos:prefLabel = "colza">colzas</skos:prefLabel = "colza">
+prévisions météorologiques du mercredi 20
+au mardi 26 février :</paraConstruit>
+</cultureAuto="colza">
+
+<cultureAuto="colza">
+<paraConstruit>temps sec et froid
+avec des minimales
+atteignant -5°c (pouvant descendre à -8°c
+localement) et des
+maximales à peine
+positives jusqu’à dimanche et remontant
+doucement
+ensuite
+jusqu’à
+4-5°c
+source météociel</paraConstruit>
+</cultureAuto="colza">
+
+<cultureAuto="colza">
+<paraConstruit>la quasi-totalité des parcelles est au stade reprise de végétation c1 avec pour certaines d’entre elles l’apparition de jeunes feuilles.</paraConstruit>
+</cultureAuto="colza">
+
+<cultureAuto="colza">
+<paraConstruit><paraConstruitPartiellement>mise en place des cuvettes
+même si nous avons encore quelques gelées matinales, lorsqu’un radoucissement
+se manifeste accompagné de périodes d’ensoleillement l’après-midi, ce sont des
+conditions favorables à la reprise d’activité des insectes. en effet à cette période, 3
+jours consécutifs avec des températures supérieures à 9°c et l’absence de pluviométrie sont suffisants pour caractériser les conditions de vol du charançon de la tige
+du colza. les cuvettes doivent donc être réinstallées et visitées afin de détecter l’arrivée des ravageurs.
+placer la cuvette à au moins 10 mètres au-delà de la bordure de la parcelle et si</paraConstruitPartiellement>
+</cultureAuto="colza">
+
+<cultureAuto="colza">
+<paraConstruitPartiellement>possible à proximité d’un ancien champ de <skos:prefLabel = "colza">colza</skos:prefLabel = "colza"> de l’année précédente
+remplir les cuvettes avec environ 1 litre</paraConstruitPartiellement>
+</cultureAuto="colza">
+
+<cultureAuto="colza">
+<paraConstruitPartiellement>d’eau additionnée de quelques gouttes de
+mouillant (type liquide vaisselle par exemple)
+le fond de la cuvette suit le niveau supérieur</paraConstruitPartiellement>
+</cultureAuto="colza">
+
+<cultureAuto="colza">
+<paraConstruitPartiellement>de la végétation
+réaliser 1 relevé au moins 1 fois par se-</paraConstruitPartiellement></paraConstruit>
+</cultureAuto="colza">
+
+<cultureAuto="colza">
+<paraConstruit>grandes cultures n° 12 du 20 février 2013
+charançon de la tige du colza
+le charançon de la tige du colza est le premier insecte nuisible qui va être piégé. attention à ne pas confondre ce dernier avec une autre espèce : le charançon de la tige du chou – considéré comme peu nuisible souvent présent en nombre beaucoup plus important et qui accompagne voire précède le charançon de la
+tige du colza dans les pièges.
+le charançon de la tige du colza se distingue du charançon de la tige du chou par une taille plus grande et
+surtout par l’extrémité noire des pattes (rousses pour le charançon de la tige du chou).</paraConstruit>
+</cultureAuto="colza">
+
+<cultureAuto="colza">
+charançon de la tige du chou
+</cultureAuto="colza">
+
+<cultureAuto="colza">
+charançon de la tige du colza
+</cultureAuto="colza">
+
+<cultureAuto="colza">
+(ceutorrhynchus. napi gyll.)
+</cultureAuto="colza">
+
+<cultureAuto="colza">
+extrémités des pattes rousses
+</cultureAuto="colza">
+
+<cultureAuto="colza">
+extrémités des pattes noires
+</cultureAuto="colza">
+
+<cultureAuto="colza">
+<paraConstruit>vous pouvez consulter proplantexpert, un outil d’anticipation sur l’arrivée des insectes grâce aux données
+météorologiques prévisionnelles de 4 postes (auxerre, longvic, macon et nevers). la consultation des données proplantexpert ne doit pas se substituer à l’observation concrète des parcelles mais alerter sur l’arrivée
+potentielle du ravageur et inciter à la mise en place ou au suivi précis des cuvettes jaunes.
+ce service gratuit est disponible sur le site du cetiom (www.cetiom.fr).
+la consultation de cet outil le 20 février montre qu’actuellement et dans les jours qui viennent des conditions
+climatiques défavorables au vol de charançon de la tige du colza sur la région.
+risque
+faible</paraConstruit>
+</cultureAuto="colza">
+
+<cultureAuto="colza">
+<paraConstruit><paraConstruitPartiellement>ceci est vérifié par les observations terrains car à ce jour aucun charançon n’a été piégé.</paraConstruitPartiellement>
+</cultureAuto="colza">
+
+<cultureAuto="colza">
+<paraConstruitPartiellement>rappel du seuil d’intervention : le délai d’intervention est de 8 à 10 jours après les premières captures
+significatives (temps nécessaire pour que les femelles acquièrent leur maturité sexuelle et entament
+l’activité de ponte) au stade sensible du <skos:prefLabel = "colza">colza</skos:prefLabel = "colza"> (à partir de l’élongation de la tige à passage de c1 à
+c2).</paraConstruitPartiellement></paraConstruit>
+</cultureAuto="colza">
+
+<cultureAuto="">
+grandes cultures n° 12 du 20 février 2013\n</cultureAuto="">
+
+<cultureAuto="">
+<paraConstruit><paraConstruitPartiellement>le stade c2 se caractérise par la présence d’un étranglement
+vert clair à la base des nouveaux pétioles. avant ce stade le
+charançon de la tige du colza n’est pas nuisible.</paraConstruitPartiellement>\n</cultureAuto="">
+
+<cultureAuto="">
+<paraConstruitPartiellement>la nuisibilité est liée aux œufs qu’il dépose dans la tige du colza. ces derniers provoquent en effet une
+réaction physiologique de la plante, se traduisant par des nécroses, des déformations, voire des éclatements de tiges. les pertes de rendement consécutives à ces perturbations sont d’autant plus préjudiciables que le printemps est sec par la suite. le risque conjugue donc la présence de femelles
+aptes à pondre avec la présence de tige tendre.</paraConstruitPartiellement>\n</cultureAuto="">
+
+<cultureAuto="">
+<paraConstruitPartiellement>il est important de lutter contre le charançon avant qu’il ne ponde dans les tiges. cependant l’intervention ne doit pas être réalisée trop tôt, afin de limiter les risques de ré-intervention, le vol de l’insecte
+étant parfois étalé. le risque est pour l’instant faible.</paraConstruitPartiellement></paraConstruit>\n</cultureAuto="">
+
+<cultureAuto="">
+<paraConstruit>a la différence avec le charançon de la tige du colza, le charançon de la tige du chou ne pond pas directement dans la tige, mais dans les pétioles des feuilles. les larves rongent ensuite les pétioles, perforent la
+tige et s’attaquent à la moelle, sans conséquence sur la croissance de la tige.</paraConstruit>\n</cultureAuto="">
+
+<cultureAuto="">
+
+\n</cultureAuto="">
+

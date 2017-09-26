@@ -1,0 +1,148 @@
+<cultureGlobaleAuto = "colza ">
+
+<paraConstruit>a retenir cette semaine
+- très nette accélération des stades phénologiques.
+- 29% des cuvettes piègent des charançons de la tige du colza cette semaine. le
+risque va s’amplifier avec le retour de journées ensoleillées.
+- premiers méligèthes capturés et pucerons cendrés observés dans l’yonne.
+- quelques cas de cylindrosporiose détectés dans l’yonne.
+- premiers symptômes d’oïdium observés en saône et loire.
+- attention aux abeilles dans les parcelles où les <skos:prefLabel = "moutarde">sanves</skos:prefLabel = "moutarde"> ou les <skos:prefLabel = "colza">colzas</skos:prefLabel = "colza"> sont en fleurs.</paraConstruit>
+
+<paraConstruit>réseau 2013-2014
+le réseau 2013-2014 est actuellement constitué de 66 parcelles. le bsv pour cette
+semaine est réalisé à partir d’observations faites sur 45 parcelles du réseau ainsi que
+de remontées terrains.</paraConstruit>
+
+<paraConstruit>stades des <skos:prefLabel = "colza">colzas</skos:prefLabel = "colza"></paraConstruit>
+
+<paraConstruit>prévisions météorologiques du mercredi 5 au
+mardi 11 mars :</paraConstruit>
+
+<paraConstruit>on note toujours une très forte évolution des stades avec les quelques parcelles les
+plus avancées atteignant le stade d2 (inflorescence principale dégagée, boutons accolés). certaines plantes isolées présentent les premières fleurs.
+rappel : un stade est atteint lorsque 50% des plantes sont à ce stade.</paraConstruit>
+
+<paraConstruit>retour à un temps
+ensoleillé à partir de
+mercredi avec des
+températures
+minimales avoisinant les
+0°c. a partir de dimanche, les maximales pourraient se
+situer autour de 15°c
+- source météociel</paraConstruit>
+
+<paraConstruit>grandes cultures n° 16 du 4 mars 2014
+codification des stades :</paraConstruit>
+
+<paraConstruit>charançon de la tige du colza
+45 parcelles renseignées</paraConstruit>
+
+<paraConstruit>pour la description et la nuisibilité du ravageur, se reporter aux bsv précédents n°13 ou 14 du 11 ou 18
+février 2014.
+les captures du charançon de la tige du colza se poursuivent mais sont moins nombreuses que la semaine dernière. elles sont toujours réalisées sur l’ensemble de la bourgogne à l’exception de la nièvre.
+sur 45 parcelles observées, on note la présence du ravageur dans 29% des cuvettes, avec des captures
+allant de 1 à 4 individus (1,8 charançons en moyenne dans les cuvettes qui ont capturé). proplantexpert,
+un outil d’anticipation sur l’arrivée des insectes grâce aux données météorologiques prévisionnelles de 4
+postes (auxerre, longvic, macon et nevers) confirme ces données : les conditions climatiques depuis les
+23 et 24 février n’étaient pas favorables au vol. la consultation des données proplantexpert ne doit pas se
+substituer à l’observation concrète des parcelles mais alerter sur l’arrivée potentielle du ravageur et inciter
+à la mise en place ou au suivi précis des cuvettes jaunes.
+ce service gratuit est disponible sur le site du cetiom (www.cetiom.fr).
+la consultation de cet outil le 4 mars prévoit des conditions climatiques très favorables à partir du 6 mars
+pour tous les postes de la région avec une possible activité de ponte le même jour.
+pour les jours à venir, les conditions redeviennent donc favorables à l’activité du ravageur.
+les premières dissections montrent que les femelles ne sont pas porteuses d’œufs.</paraConstruit>
+
+<paraConstruit>rappel du seuil d’intervention : le délai d’intervention est de 8 à 10 jours après les premières captures significatives (temps nécessaire pour que les femelles acquièrent leur maturité sexuelle et entament l’activité de ponte) au stade sensible du <skos:prefLabel = "colza">colza</skos:prefLabel = "colza"> (à partir de l’élongation de la tige  passage de
+c1 à c2).</paraConstruit>
+
+<paraConstruit>le stade c2 se caractérise par la présence d’un
+étranglement vert clair à la base des nouveaux pétioles. avant ce stade le charançon de la tige du
+colza n’est pas nuisible.</paraConstruit>
+
+<paraConstruit>grandes cultures n° 16 du 4 mars 2014
+il est important de lutter contre le charançon avant qu’il ne ponde dans les tiges. cependant l’intervention ne
+doit pas être réalisée trop tôt, afin de limiter les risques de ré-intervention, le vol de l’insecte étant parfois
+étalé.
+1er cas : pour les parcelles où il n’y a pas encore eu de captures de charançon de la tige de
+colza ou encore au stade c1, le risque est faible.</paraConstruit>
+
+<paraConstruit>2ème cas : pour les parcelles où des captures du ravageur ont été réalisées et où le stade
+c2 est atteint, le risque est réel et devrait s’amplifier lors des prochaines journées ensoleillées.
+a la différence du charançon de la tige du colza, le charançon de la tige du chou ne pond pas directement
+dans la tige, mais dans les pétioles des feuilles. les larves rongent ensuite les pétioles, perforent la tige et
+s’attaquent à la moelle, avec parfois des conséquences sur la croissance des tiges. cette semaine sur 44
+cuvettes observées, 20% ont capturé cet insecte (en moyenne 1,7 individus avec une fourchette allant de 1 à
+3 captures).</paraConstruit>
+
+<paraConstruit>méligèthes
+les premiers méligèthes ont été capturés dans l’yonne. cependant, aucune observation ne relève leur présence sur plante.</paraConstruit>
+
+<paraConstruit>pucerons cendrés
+une observation de pucerons cendrés a été faite sur une parcelle du nord de l’yonne (soucy) avec des pieds
+présentant des symptômes de viroses.</paraConstruit>
+
+<paraConstruit>cylindrosporiose
+des symptômes sont observés depuis deux semaines sur 2 parcelles de l’yonne à saint-maurice-aux-riches
+-hommes et michery (89).
+3</paraConstruit>
+
+<paraConstruit>grandes cultures n° 16 du 4 mars 2014
+sur feuilles, les symptômes de type brûlure, correspondent à des taches beiges d’aspect légèrement parcheminé, entourées d’acervules (pustules blancs).</paraConstruit>
+
+<paraConstruit>sur tige les symptômes se traduisent par des taches allongées, beige à brun clair. les symptômes illustrés ci
+-après ont confirmé la présence de cylindrosporiose après avoir été enfermés dans un sac plastique pendant
+4 jours à températures ambiantes afin de faire développer les acervules s’il s’agit de ce pathogène.
+la lutte vise à éviter le développement de la maladie ultérieurement sur silique provoquant leur dessèchement et leur éclatement prématuré.</paraConstruit>
+
+<paraConstruit>phoma
+trois parcelles du réseau (2 dans l’yonne et 1 en côte d’or) signalent la présence de phoma avec 3 à 10%
+de pieds avec présence de nécroses sur le collet.</paraConstruit>
+
+<paraConstruit>oïdium
+une parcelle signale la présence d’oïdium sur 8% de pieds à buxy (71).</paraConstruit>
+
+<paraConstruit>pseudocercosporella
+une parcelle signale la présence de pseudocersporella sur 10% des pieds à saint-maurice-aux-richeshommes (89).</paraConstruit>
+
+<paraConstruit><skos:prefLabel = "moutarde brune">moutarde</skos:prefLabel = "moutarde brune"> brune d’automne
+les conditions climatiques actuelles sont favorables à la croissance des plantes et par conséquent les <skos:prefLabel ="moutarde">moutardes</skos:prefLabel ="moutarde"> ont un mois d’avance en stade par rapport à une année normale. météo france annonce enfin le retour de journées ensoleillées, les vols d’insectes devraient se multiplier, des observations régulières dans les
+parcelles deviennent donc nécessaire.
+4</paraConstruit>
+
+<paraConstruit>grandes cultures n° 16 du 4 mars 2014
+le réseau d’observation
+le réseau est constitué de 10 parcelles sur la région bourgogne, 2 dans l’yonne , 2 en saône et loire et 6 en
+côte d’or (1 auxois,1chatillonnais et 4 en plaine dijonnaise). cette semaine 9 sur 10 ont été observées.</paraConstruit>
+
+<paraConstruit>stade de la culture
+60 % des parcelles sont au stade début montaison (c2)
+30 % des parcelles sont au stade bouton accolé (d1)
+10 % des parcelles sont au stade inflorescence dégagée (d2)</paraConstruit>
+
+<paraConstruit>charançon de la tige du colza
+des captures de charançons de la tige du colza sont signalées dans chacune des parcelles observées,
+quelle que soit la zone de production. le nombre d’individu capturé dans les cuvettes va de 1 à 7, avec une
+moyenne de 3.33 individus. il n’y a pas de seuil de nuisibilité pour le charançon de la tige du colza, il est donc
+considéré que la seule présence de cet insecte est un risque pour la culture.</paraConstruit>
+
+<paraConstruit>charançon de la tige du chou
+quelques captures ont été réalisées en saône et loire et au sud de la côte d’or.
+cependant, cet insecte n’est pas considéré comme nuisible sur la culture, le risque est nul.</paraConstruit>
+
+<paraConstruit>méligèthes
+dans deux cuvettes jaunes situées en plaine dijonnaise et une dans l’yonne, nous constatons la présence de
+méligèthes.
+cependant, peu de parcelles sont suffisamment développées, le risque est donc faible.
+en effet, tant que les boutons ne sont pas visibles, ils restent protégés.</paraConstruit>
+
+<paraConstruit>maladie
+dans deux parcelles, la présence de cylindrosporiose est signalée sur les feuilles basses .les symptômes
+sont des taches blanches sur les feuilles faisant penser à des brûlures de grain d’ azote.</paraConstruit>
+
+<paraConstruit>photo e bonnin
+a ce jour aucun symptôme n’est signalé sur tige.
+il semblerait que la variété corolle soit sensible à ce pathogène. le risque est considéré comme faible à
+5
+présent mais il est nécessaire de suivre l’évolution de ce pathogène.</paraConstruit>

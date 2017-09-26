@@ -1,0 +1,344 @@
+<cultureGlobaleAuto = "colza céréale ">
+
+<paraConstruit>a retenir cette semaine
+- pour les parcelles ayant atteint 4 feuilles, une grande partie des risques est déjà
+écartée vis-à-vis des limaces et des altises
+- pour les <skos:prefLabel = "colza">colzas</skos:prefLabel = "colza"> moins développés, la priorité du moment reste le contrôle des limaces et des grosses altises
+- faible évolution des captures de charançons du bourgeon terminal. attention aux
+situations qui ont déjà capturé des charançons du bourgeon terminal il y a 2 semaines et sur lesquelles des piqures ont pu être observées
+- faible présence de pucerons verts sur les plantes
+- évolution lente des macules de phoma
+sommaire
+<skos:prefLabel = "colza">colza</skos:prefLabel = "colza">
+<skos:prefLabel = "céréale">céréales</skos:prefLabel = "céréale">
+annexe</paraConstruit>
+
+p1
+p9
+p 13
+
+<paraConstruit>réseau 2013-2014
+le réseau 2013-2014 est actuellement constitué de 62 parcelles. le bsv de cette semaine est réalisé à partir d’observations faites sur 53 parcelles du réseau ainsi que de
+remontées terrains.</paraConstruit>
+
+<paraConstruit>stades des <skos:prefLabel = "colza">colzas</skos:prefLabel = "colza"></paraConstruit>
+
+<paraConstruit>prévisions météorologiques du mercredi 09
+octobre au mardi 15 octobre:
+période très humide
+avec dès jeudi des passages
+pluvieux
+fréquents de façon quotidienne. baisse des températures avec des minimales de 4-5°c et des
+maximales proches de
+10°c. a partir de dimanche légère remontée avec des minimales
+de 7-8°c et des maximales de 14-16°c
+source : météociel</paraConstruit>
+
+<paraConstruit>les stades des <skos:prefLabel = "colza">colzas</skos:prefLabel = "colza"> évoluent assez rapidement. cette semaine 4% des parcelles
+du réseau qui ont été observées n’ont pas encore atteint 4 feuilles.
+mais les <skos:prefLabel = "colza">colzas</skos:prefLabel = "colza"> présentent des stades très irréguliers selon les dates de semis principalement sur les secteurs les plus au nord de la région.
+pour les semis les plus précoces (avant le 24 août) les installations sont correctes et
+les stades de développement sont à plus de 4 feuilles. en revanche pour les semis à
+partir du 30 août on note d’importantes hétérogénéités. dans bon nombre de situations les <skos:prefLabel = "colza">colzas</skos:prefLabel = "colza"> végètent, plusieurs facteurs expliquent cela :
+- des conditions sèches jusqu’au 15 septembre sur les secteurs plus au nord de
+la région
+- des températures matinales froides (4 à 6°c le matin entre le 4 et le 20 septembre)
+- une pression importante des ravageurs sur des petits <skos:prefLabel = "colza">colzas</skos:prefLabel = "colza"> (limaces, altises…)
+- des sols plus ou moins bien rappuyés
+- des phytotoxicités d’herbicides suite aux fortes précipitations des 14-15 septembre
+rappel : un stade est atteint lorsque 50% des plantes sont à ce stade.</paraConstruit>
+
+<paraConstruit>codification des stades :</paraConstruit>
+
+<paraConstruit>ravageurs
+pour les parcelles ayant atteint 4 feuilles, une grande partie des risques est déjà écartée vis-à-vis des petites
+altises, des limaces et des grosses altises adultes.</paraConstruit>
+
+<paraConstruit>charançon du bourgeon terminal
+l’adulte a un corps noir et brillant. on observe des taches latérales blanches entre le thorax et l’abdomen.
+2
+les extrémités des pattes sont rousses.</paraConstruit>
+
+<paraConstruit><paraConstruitPartiellement>ce sont les larves qui sont nuisibles. en cas de fortes attaques elles détruisent le bourgeon terminal. au printemps le <skos:prefLabel = "colza">colza</skos:prefLabel = "colza"> présente alors un port buissonnant.
+-</paraConstruitPartiellement>
+
+<paraConstruitPartiellement>période de risque  du développement des premières larves jusqu’au décollement du bourgeon
+terminal. la lutte contre les larves étant impossible, c’est l’arrivée des adultes qui déclenche le début de la période de risque. la cuvette jaune est indispensable pour effectuer ce piégeage.</paraConstruitPartiellement>
+
+<paraConstruitPartiellement>seuil de nuisibilité  il n’y a pas de seuil de risque et on peut difficilement baser le risque sur un
+nombre d’individus capturés car cet insecte se piège mal. mais, étant donné la nuisibilité potentielle
+de cet insecte, il est considéré que seule sa présence sur les parcelles est un risque. par contre les
+femelles sont rarement aptes à pondre dès leur arrivée sur les parcelles. la durée de maturation
+étant variable, on retient un délai d’une dizaine de jours après les premières captures. le risque est
+d’autant plus important sur des <skos:prefLabel = "colza">colzas</skos:prefLabel = "colza"> à faible croissance.</paraConstruitPartiellement></paraConstruit>
+
+<paraConstruit>49 parcelles renseignées</paraConstruit>
+
+<paraConstruit>des captures ont été signalées dans 16% des cuvettes (entre 1 et 6 charançons avec en moyenne 2,5 individus). le début du vol est timide.
+des suivis de ponte vont être mis en place dès cette semaine afin d’évaluer au mieux le risque.
+24 sept.</paraConstruit>
+
+nombre moyen de charançons dans
+les cuvettes avec captures
+
+nombre moyen de charançons toutes
+cuvettes confondues
+
+fréquence de cuvettes avec captures
+
+<paraConstruit>évolution de la cinétique de vol du charançon du bourgeon terminal en bourgogne en 2013
+l’absence d’un vol franc et massif doit inciter à aller relever régulièrement les cuvettes dans les parcelles ou à surveiller la présence éventuelle de piqures notamment dans les situations où les premières captures ont eu lieu depuis plus de deux semaines.
+3</paraConstruit>
+
+grandes cultures n° 6 du 08 octobre 2013
+.
+
+<paraConstruit><paraConstruitPartiellement>parcelles pour lesquelles aucune capture n’a été détectée</paraConstruitPartiellement>
+
+<paraConstruitPartiellement>situations pour lesquelles les premières captures remontent à la
+semaine dernière</paraConstruitPartiellement>
+
+<paraConstruitPartiellement>situations pour lesquelles les premières captures remontent à 2
+semaines en absence de piqures</paraConstruitPartiellement>
+
+<paraConstruitPartiellement>situations pour lesquelles les premières captures remontent à 2
+semaines avec présence de piqures mais <skos:prefLabel = "colza">colza</skos:prefLabel = "colza"> à forte biomasse
+(au moins 6 feuilles et plus de 1,5kg de matière verte)</paraConstruitPartiellement>
+
+<paraConstruitPartiellement>situations pour lesquelles les premières captures remontent à 2
+semaines avec présence de piqures mais <skos:prefLabel = "colza">colzas</skos:prefLabel = "colza"> faiblement développés</paraConstruitPartiellement></paraConstruit>
+
+<paraConstruit>puceron vert du pêcher
+risque
+faible</paraConstruit>
+
+<paraConstruit>34 parcelles renseignées</paraConstruit>
+
+<paraConstruit><paraConstruitPartiellement>des ailés ont été capturés sur les plaques engluées ainsi qu’à la tour d’auxerre. cette semaine la présence
+de pucerons verts en végétation est signalée dans seulement six situations n’excédant pas 14% des plantes
+hormis à serrigny – 89 avec la présence de pucerons sur 50% des plantes mais sur un <skos:prefLabel = "colza">colza</skos:prefLabel = "colza"> qui est déjà à 9
+feuilles.
+-</paraConstruitPartiellement>
+
+<paraConstruitPartiellement>période de risque  depuis la levée jusqu’à 6 semaines de culture, correspondant à la période de
+risque de transmission des viroses
+seuil de nuisibilité  20% de plantes portant des pucerons
+4</paraConstruitPartiellement></paraConstruit>
+
+<paraConstruit>grandes cultures n° 6 du 08 octobre 2013
+l’observation est à réaliser sur la face inférieure des feuilles de <skos:prefLabel = "colza">colza</skos:prefLabel = "colza">, endroit où généralement les pucerons
+s’installent. le retour de conditions météorologiques plus fraiches et humides dans les prochains jours devrait être défavorable à leur développement.
+une situation à soucy (89) signale la présence d’une colonie de pucerons cendrés en bordure de parcelle.</paraConstruit>
+
+photo emilie riberolles – ca 89
+
+altises d’hiver ou grosses altises
+risque
+faible
+
+<paraConstruit>29 parcelles renseignées</paraConstruit>
+
+<paraConstruit>on observe une augmentation des captures de grosses altises dans les cuvettes. en effet 59% des parcelles
+du réseau ont capturé des altises d’hiver. les captures sont comprises entre 1 et 30 individus avec une
+moyenne de 5. pour les <skos:prefLabel = "colza">colzas</skos:prefLabel = "colza"> les plus avancés (> 3 feuilles), l’altise d’hiver adulte ne présente pas un
+risque important au niveau de la prise alimentaire. il faudra suivre ultérieurement la présence de larves dans
+les pétioles.
+par contre pour tous les <skos:prefLabel = "colza">colzas</skos:prefLabel = "colza"> ayant un stade inférieur à 3 feuilles, il est nécessaire de suivre régulièrement
+les dégâts sur feuille pour évaluer le seuil de nuisibilité.
+-</paraConstruit>
+
+<paraConstruit>période de risque  depuis la levée jusqu’au stade 3 feuilles dans le cadre du risque adultes
+seuil de nuisibilité  8 pieds sur 10 portant des morsures sans dépasser le ¼ de la surface végétative
+et 30 captures cumulées en cuvette</paraConstruit>
+
+<paraConstruit>au-delà du nombre de plantes avec dégâts, il est important de déterminer la surface végétative endommagée.
+il est difficile de distinguer une morsure de petite ou de grosse altise. pour cette analyse de risque, l’origine
+des morsures des feuilles est affectée à l’insecte qui a été capturé dans la cuvette ou observé sur les
+plantes.
+5</paraConstruit>
+
+<paraConstruit>grandes cultures n° 6 du 08 octobre 2013
+tenthrède de la rave</paraConstruit>
+
+photo laurent jung—cetiom
+
+photo emilie riberolles—ca 89
+
+<paraConstruit><paraConstruitPartiellement>l’adulte est une « mouche » (hyménoptère) au corps jaune orangé, à tête noire et aux ailes membraneuses.
+ce sont les larves (aspect noirâtre en fin de cycle avec une longueur de 2 à 5 cm) qui sont responsables des
+dégâts en dévorant les feuilles des crucifères, en dédaignant les nervures.
+la capture des adultes dans les pièges sur végétation n’est pas un indicateur pertinent vis-à-vis du risque
+mais un indicateur d’alerte.
+-</paraConstruitPartiellement>
+
+<paraConstruitPartiellement>période de risque  depuis la levée jusqu’au stade 6 feuilles mais généralement plutôt entre 3 et 6
+feuilles en cas de population larvaire importante
+seuil de nuisibilité  présence de larves avec des dégâts sur feuilles supérieures au ¼ de la surface
+végétative
+risque
+faible</paraConstruitPartiellement></paraConstruit>
+
+<paraConstruit>33 parcelles renseignées</paraConstruit>
+
+<paraConstruit>des adultes sont toujours capturés dans des cuvettes mais en nette régression par rapport à la semaine dernière (en moyenne 4 individus par cuvette qui ont été piégés contre 11 la semaine dernière). des dégâts de
+larves sont observés sur 42% des sites, mais ils n’excèdent pas 20% de la surface foliaire détruite.
+les dégâts sont généralement peu importants sauf si les <skos:prefLabel = "colza">colzas</skos:prefLabel = "colza"> végètent. en conditions favorables, s’il y a
+présence de larves, les dégâts apparents – jusqu’alors anodins – évoluent rapidement dans les jours qui suivent.
+limaces</paraConstruit>
+
+<paraConstruit>10 parcelles renseignées</paraConstruit>
+
+<paraConstruit>des dégâts sont toujours signalés cette semaine sur 8 des 10 parcelles renseignées. parmi ces observations
+une seule est au stade 3 feuilles à argilly (21). toutes les autres sont au moins au stade 4 feuilles et bénéficient d’une forte croissance des <skos:prefLabel = "colza">colzas</skos:prefLabel = "colza"> ce qui diminue le risque.
+un suivi régulier est nécessaire pour les quelques <skos:prefLabel = "colza">colzas</skos:prefLabel = "colza"> n’ayant pas encore atteint 3-4 feuilles. pour
+ces situations le risque est élevé.</paraConstruit>
+
+grandes cultures n° 6 du 08 octobre 2013
+-
+
+<paraConstruit>période de risque  depuis la levée jusqu’au stade 3-4 feuilles. la dynamique de végétation est à
+prendre en compte, avec des attaques davantage problématiques sur des <skos:prefLabel = "colza">colzas</skos:prefLabel = "colza"> peu poussants
+plutôt que sur des plantes vigoureuses et en pleine croissance.
+seuil de nuisibilité  il n’y a pas de seuil de nuisibilité pour les limaces mais en cas de présence, la
+survie de la culture est en jeu. la présence de résidus de cultures ainsi que des repousses de la
+culture précédente sont favorables à leur développement.</paraConstruit>
+
+<paraConstruit>taupin
+un premier cas de taupins est signalé dans l’yonne.</paraConstruit>
+
+<paraConstruit>baris
+des captures de baris continuent d’être signalées. les adultes peuvent être capturés tout au long du cycle
+du <skos:prefLabel = "colza">colza</skos:prefLabel = "colza"> (voir identification ci-dessous).</paraConstruit>
+
+charançon du bourgeon terminal
+
+grandes cultures n° 6 du 08 octobre 2013
+mildiou
+
+<paraConstruit>feutrage épars blanc sale (fructification) sur la face
+inférieure des feuilles ou des cotylédons.
+photo h. martin—seine-yonne : mildiou sur cotylédons</paraConstruit>
+
+<paraConstruit>les conditions d’humidité des derniers jours (pluies, brouillards) sont propices à un développement de la
+maladie. le mildiou a été observé dans plusieurs parcelles de la région. c’est une cause supplémentaire
+du manque de vigueur sur les petits <skos:prefLabel = "colza">colzas</skos:prefLabel = "colza">.
+phoma
+des macules de phoma sont observées sur 29% des parcelles (maximum 15% de plantes touchées).
+le risque phoma n’existe que lorsque plusieurs conditions
+sont réunies : <skos:prefLabel = "colza">colza</skos:prefLabel = "colza"> classé peu sensible (ps), pic de sporulation maximal enregistré alors que les plantes sont peu
+développées (moins de 6 feuilles) et donc sensibles ou
+bien si on cumule plusieurs facteurs aggravants (forte densité, mulch de pailles en surface, qui conduisent à une
+élongation de l’hypocotyle, excès d’eau).
+retrouvez le classement phoma de l’ensemble des variétés de <skos:prefLabel = "colza d’hiver">colza d’hiver</skos:prefLabel = "colza d’hiver"> dans le guide de culture <skos:prefLabel = "colza">colza</skos:prefLabel = "colza"> du cetiom et sur www.cetiom.fr
+photo cetiom : macules de phoma sur feuilles</paraConstruit>
+
+<paraConstruit>hernie des crucifères</paraConstruit>
+
+<paraConstruit>un cas nous est signalé à franxault (21). aux
+heures les plus chaudes de la journée, certaines plantes flétrissent. en les arrachant, s’il
+s’agit de hernie des crucifères, on observe une
+ou plusieurs galles au niveau du système racinaire.</paraConstruit>
+
+<paraConstruit><skos:prefLabel = "céréale">céréales</skos:prefLabel = "céréale"> d’hiver
+après une période de semis active sur les derniers jours de septembre, les chantiers sont arrêtés par
+les conditions pluvieuses du moment. néanmoins, compte tenu de la douceur des températures enregistrées ces derniers jours, les levées sont rapides (environ 150° de températures moyennes journalières cumulées depuis le semis) et les jeunes <skos:prefLabel = "céréale">céréales</skos:prefLabel = "céréale"> soumises à leurs premiers risques vis-à-vis
+des bio-agresseurs : mauvaises herbes, limaces, pucerons et cicadelles.</paraConstruit>
+
+<paraConstruit>le réseau de parcelles se met en place
+pour les <skos:prefLabel = "blé">blés</skos:prefLabel = "blé"> 7 parcelles déjà semées sur la fin septembre ont fait l’objet d’observations. pour les orges d’hiver, 8 parcelles sont concernées. bien évidemment le réseau s’étoffera dès que les semis seront achevés.
+les levées ont été rapides. toutes ces parcelles sont au stade début levée à 1 feuille.</paraConstruit>
+
+<paraConstruit>semer sur un sol indemne de mauvaises herbes
+avant le semis, la lutte contre les adventices peut et doit s’appuyer sur différents leviers agronomiques : le
+labour, la réalisation de faux semis, le décalage de la date de semis ou encore la rotation des cultures. au
+moment du semis, implanter la <skos:prefLabel = "céréale">céréale</skos:prefLabel = "céréale"> sur un sol propre. c’est la première étape d’une stratégie de désherbage réussie.
+après analyse du risque de développement des mauvaises herbes, si la décision est prise de traiter, rappelons que les conditions d’intervention sont primordiales : sol frais et pas trop motteux pour les herbicides racinaires, hygrométrie élevée et amplitudes thermiques faibles pour les autres. pour les applications précoces
+d’automne, attention à la qualité de semis : si les semences ne sont pas assez enfouies ou recouvertes partiellement, les risques de phytotoxicité avec certains produits augmentent (ex : trooper, fosburi, spécialités à
+base de prosulfocarbe,…). lors de l’utilisation d’urées des précautions doivent êtes prises. tout d’abord, les
+produits à base de chlortoluron ne peuvent être appliqués que sur des variétés tolérantes (liste en annexe).
+en ce qui concerne les herbicides à base d’isoproturon, ils sont interdits d’utilisation en période de drainage
+actif et de reproduction des oiseaux et mammifères.</paraConstruit>
+
+<paraConstruit>un risque limaces à mesurer dans un contexte climatique pluvieux
+les <skos:prefLabel = "céréale">céréales</skos:prefLabel = "céréale"> sont sensibles aux limaces (grises les plus fréquentes, comme noires) de la levée jusqu’au
+stade 3 feuilles. les situations les plus à risque concernent les parcelles argileuses, motteuses ou avec des
+résidus de cultures abondants, les semis superficiels. le risque est d’autant plus élevé que le climat de l’automne est doux et humide pendant la période « avant semis – 3 feuilles ».
+afin d’analyser le risque, le mieux est d’installer des pièges dès avant le semis. le piégeage consiste à la
+mise en place à la surface du sol d’un carré de 50 cm x 50 cm en carton, ou une tuile, ou un sac recouvert
+par une bâche plastique. sous le piège disposez quelques granulés d’anti limaces pour éviter que les limaces ne quittent le piège.</paraConstruit>
+
+<paraConstruit>a partir de ce piège, le risque limace se raisonne avec les
+seuils suivants (rapporter le comptage du piège au m²) :
+1 à 10 limaces / m² : risque faible
+10 à 20 limaces / m² : risque moyen
+20 à 50 limaces / m² : risque élevé
+plus de 50 limaces / m² : risque très élevé</paraConstruit>
+
+<paraConstruit>sur les parcelles observées les limaces sont généralement présentes dans 1/3 des situations mais les populations et les dégâts sur plantules restent, cette semaine, modérés. seulement dans une situation, en saône
+et loire, on dénombre 40 limaces / m² prises au piège.
+le risque limaces devrait s’amplifier dans les jours à venir au vu des conditions humides annoncées dans la région. les températures fraiches
+pourraient toutefois limiter leur prolifération.</paraConstruit>
+
+risque
+élevé
+risque
+faible
+
+<paraConstruit>les pucerons (rhopalosiphum padi) vecteurs de la jaunisse nanisante
+rhopalosiphum padi est un puceron à forme globuleuse (1,2 à 2,4
+mm), qui présente un corps vert foncé avec des taches rougeâtres
+autour de l’insertion des cornicules. a l’automne, lorsque les conditions sont favorables (température supérieure à 10°-12°c, temps
+ensoleillé) les pucerons ailés volent et se posent préférentiellement sur les jeunes plantules de <skos:prefLabel = "céréale">céréales</skos:prefLabel = "céréale">. ils transmettent le virus
+lors de leurs piqûres alimentaires. l’infestation est d’autant plus
+importante que le nombre de jours de vols est élevé : les semis
+précoces, sans traitement spécifique vis-à-vis de ce ravageur, sont
+ainsi toujours plus exposés. suite à cette contamination primaire
+de la parcelle, la diffusion de la maladie est assurée par leur descendance : les pucerons aptères (sans ailes) se contaminent en se
+nourrissant sur des plantes malades puis contaminent d’autres plantes (dissémination par foyer).
+la température joue à nouveau un rôle important sur le taux d’accroissement de la population de pucerons
+aptères car la rapidité de ponte augmente avec la température. a 20 °c les larves de puceron atteignent le
+stade adulte en 8 jours. l’insecte peut ensuite vivre de 15 à 20 jours. si la rapidité de ponte augmente avec
+la température, la durée de vie suit le chemin inverse, passant à 30 voire 40 jours à 15 °c et à deux mois à
+10 °c. en dessous de 3 °c, les pucerons cessent d’être actifs mais peuvent survivre jusqu’à des températures de -5 à -12 °c selon les espèces.
+autre impact de la température : les vols se déclenchent à 12 °c : les étés tempérés suivis d’automne doux
+leur sont donc très favorables. les premiers piègeages réalisés à la tour à succion d’auxerre indiquent la
+présence de pucerons ailés en très grand nombre, relativement aux années passées :
+10</paraConstruit>
+
+<paraConstruit>dès le début de la levée, un état des lieux est à réaliser par beau temps en parcourant la parcelle. le seuil
+d’intervention est de 10% de plantes touchées par au moins un puceron. en dessous de ce seuil, il ne faut
+pas laisser séjourner les pucerons plus de 10 jours de suite.
+sur 8 parcelles ayant fait l’objet d’observations, 3 indiquent la présence de pucerons selon une fréquence de
+3 à 7% de plantes touchées.
+risque
+élevé</paraConstruit>
+
+<paraConstruit>bien que les conditions climatiques actuelles soient globalement peu favorables aux pucerons, il n’empêche que les comptages d’ailés réalisés à
+la tour à succion d’auxerre sont à un niveau élevé. il faudra redoubler
+d’attention lorsque le soleil sera de retour.</paraConstruit>
+
+<paraConstruit>les cicadelles (psammotettix alienus) responsables des symptômes de pieds chétifs
+la cicadelle est de ton beige
+terreux, d’une taille de 4 à 5 mm,
+caractérisée par :
+5 bandes blanches étroites
+et 6 bandes beiges
+larges longitudinales sur
+le sommet de la tête caractéristiques de l’espèce.
+des ailes disposées en
+forme de toit (^)</paraConstruit>
+
+<paraConstruit>c’est prioritairement dans les parcelles levées le plus tôt, sans traitement de semences spécifique vis-à-vis
+de ce ravageur, et d’autant plus si la levée est hétérogène, bien exposées (au sud) ou dans les zones abritées, bordées de haies et de bois, que l’observation doit être la plus soutenue.
+l’état des lieux peut être réalisé en relevant de manière hebdomadaire, dès le début de la levée, un piège
+jaune englué format a4. au-delà de 30 captures hebdomadaires enregistrées, le risque devient élevé. en
+l’absence de piégeage, une observation directe des cicadelles dès l’émergence de la <skos:prefLabel = "céréale">céréale</skos:prefLabel = "céréale"> sera alors nécessaire pour évaluer le niveau de risque. choisir une période ensoleillée, la plus chaude de la journée. parcourir la parcelle à 5 endroits sur 5 mètres linéaires. si à chaque endroit cette action fait sauter devant soi au
+moins 5 cicadelles, le seuil de risque est dépassé.
+sur 8 parcelles ayant fait l’objet d’observations, 6 indiquent la présence de cicadelles piégées selon une fourchette de 1 à 7 individus par piège.
+risque
+élevé</paraConstruit>
+
+<paraConstruit>bien que les conditions climatiques actuelles soient globalement peu favorables aux cicadelles, il n’empêche qu’il faudra redoubler d’attention
+lorsque le soleil sera de retour.</paraConstruit>
+
+

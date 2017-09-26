@@ -1,0 +1,41 @@
+<cultureGlobaleAuto = "mais ">
+
+<paraConstruit>
+ce message est la dernière analyse de risque de cette saison pour la culture de <skos:prefLabel = "mais">maïs</skos:prefLabel = "mais">.
+cette semaine, 23 observations ont été réalisées dans le réseau bourgogne. leur
+répartition est la suivante : 4 sont situées en côte d’or, 3 dans la nièvre, 14 en saône
+-et-loire et 2 dans l’yonne.
+grêle :</paraConstruit>
+
+<paraConstruit>
+des dégâts de grêle sont signalés sur les parcelles situées sur les communes de jallanges en côte d’or, d’allerey/saône et saint-loup-de-la-salle en saône-et-loire. ils
+sont consécutifs au violent orage du 13 juillet.</paraConstruit>
+
+<paraConstruit>
+message <skos:prefLabel = "mais">maïs</skos:prefLabel = "mais">
+annexe en lien</paraConstruit>
+
+<paraConstruit>
+bioagresseurs
+pyrale :</paraConstruit>
+
+<paraConstruit>
+les pyrales sont encore capturées en côte d’or dans le val de saône, dans la nièvre,
+en saône-et-loire.</paraConstruit>
+
+<paraConstruit>
+48 adultes ont été piégés dans le réseau bourgogne cette semaine, chiffre en baisse par rapport à la semaine 28. on se rapproche de la fin du vol de pyrale pour cette année.
+les captures sont encore significatives dans la nièvre et en bresse de saône-et-loire.
+le nombre moyen de papillons piégés par piège positif est de 4.8, en retrait par rapport à la semaine dernière.
+quelques pontes fraîches de pyrale ont été observées à mars-sur-allier (58) et à senozan (71).
+pucerons :
+rhopalosiphum padi :
+cette semaine, un seul signalement, à saint quentin sur nohain (58), sur les 12 observations réalisées. la
+contamination est évaluée à 20 individus par pied. cette présence n’affectera pas le potentiel de la culture,
+les <skos:prefLabel = "mais">maïs</skos:prefLabel = "mais"> étant au stade floraison + 15 jours.
+chrysomèle :
+deux pièges se sont révélés positifs cette semaine dans le département de la saône-et-loire.</paraConstruit>
+
+<paraConstruit>
+annexe
+note la chrysomele du maïs</paraConstruit>
