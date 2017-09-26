@@ -1,0 +1,432 @@
+<cultureAuto="céréale à paille">
+<paraConstruit>bulletin de santé du végétal
+<skos:prefLabel = "céréale à paille">céréales à paille</skos:prefLabel = "céréale à paille"></paraConstruit>
+</cultureAuto="céréale à paille">
+
+<cultureAuto="céréale à paille">
+<paraConstruit>l’évaluation du risque d’une parcelle face à un bioagresseur repose sur une observation régulière
+de celle-ci. pour estimer le risque de vos parcelles en cours de campagne, connaître la sensibilité de vos
+variétés et les leviers agronomiques à mettre en œuvre pour abaisser ce risque, reportez-vous aux fiches
+techniques présentes à la fin du bsv (accès direct en cliquant sur les liens en début de paragraphe).</paraConstruit>
+</cultureAuto="céréale à paille">
+
+<cultureAuto="blé tendre">
+<paraConstruit><skos:prefLabel = "blé tendre">blé tendre</skos:prefLabel = "blé tendre">
+stade
+rappel des stades de sensibilité aux maladies</paraConstruit>
+</cultureAuto="blé tendre">
+
+<cultureAuto="">
+<paraConstruit>contexte d’observations
+79 parcelles du réseau ont fait l’objet d’une
+observation entre le 11 et le 15 mars (semaine 11).
+la majorité des situations est à épi 1 cm (63%).
+les parcelles les plus précoces, dans l’indre et l’indreet-loire, sont au stade 1 nœud (variété ½ précoce à
+montaison, semée entre le 1er et le 20 octobre).</paraConstruit>\n</cultureAuto="">
+
+<cultureAuto="">
+<paraConstruit>pietin verse
+lien vers la fiche piétin verse</paraConstruit>\n</cultureAuto="">
+
+<cultureAuto="">
+<paraConstruit>contexte d’observations
+le risque est nul avant le stade épi 1 cm. sur les 39 parcelles à au moins épi 1 cm, 6 présentent des
+symptômes de piétin verse : entre 1 et 3% des tiges sont atteintes (départements 28, 36 et 37). le risque
+actuel est donc faible. une nouvelle observation du pourcentage de tiges touchées sera indispensable pour
+l’ensemble des variétés sensibles lorsque le stade épi 1 cm sera atteint.</paraConstruit>\n</cultureAuto="">
+
+<cultureAuto="blé">
+<paraConstruit>seuil indicatif de risque
+dans les parcelles à risque agronomique (retour fréquent de <skos:prefLabel = "blé">blé</skos:prefLabel = "blé">, variété sensible, milieu favorable, semis
+précoce), à partir du stade épi 1 cm et jusqu’à 2 nœuds, déterminer le pourcentage de tiges atteintes (sur
+40 tiges) :
+entre 10 et 30% de tiges atteintes (4 et 14 tiges sur 40), la nuisibilité est variable
+au-delà de 35% de tiges atteintes (= 14 tiges / 40), la nuisibilité est certaine</paraConstruit>
+</cultureAuto="blé">
+
+<cultureAuto="">
+<paraConstruit>prévision
+pour les variétés sensibles, le risque piétin verse est déterminé par les conditions agronomiques de la parcelle
+(cf. grille d’estimation en annexe) et la prise en compte du climat entre la levée et le stade début montaison.
+l’influence du climat sur le développement du piétin verse est estimé grâce au modèle top.</paraConstruit>\n</cultureAuto="">
+
+<cultureAuto="">
+<paraConstruit>pour les parcelles actuellement au stade épi 1 cm (semis les plus précoces), le risque climatique de la
+semaine est élevé en eure-et-loir et à l’est du loiret, et moyen dans les autres départements de la région.
+pour les semis tardifs, le risque climatique de la semaine est élevé en indre-et-loire (cf. graphique cidessus), moyen dans le cher et l’indre, et faible dans les autres départements de la région.
+pour toutes les situations, il convient d’observer vos parcelles à partir du stade épi 1 cm.</paraConstruit>\n</cultureAuto="">
+
+<cultureAuto="">
+<paraConstruit>contexte d’observations
+le risque est nul avant le stade épi 1 cm. sur les 35 parcelles à au moins épi 1 cm, 2 présentent des
+symptômes d’oïdium (déjà signalées les semaines précédentes) :
+pour des variétés peu sensibles (cellule et rgt ampiezzo, dans le 28 et le 45), entre 20 et 40% des
+f3 du moment sont touchés : le risque actuel est donc faible.
+les situations à fin tallage qui sont déjà touchées par cette maladie devront faire l’objet d’une surveillance
+étroite dès épi 1 cm.</paraConstruit>\n</cultureAuto="">
+
+<cultureAuto="">
+<paraConstruit>seuil indicatif de risque
+a partir du stade épi 1 cm, en fonction des sensibilités variétales, le seuil indicatif de risque est :
+pour les variétés sensibles : plus de 20% des 3èmes ou 2èmes ou 1ères feuilles sont atteints,
+pour les autres variétés : plus de 50% des 3èmes ou 2èmes ou 1ères feuilles sont atteints.</paraConstruit>\n</cultureAuto="">
+
+<cultureAuto="">
+<paraConstruit>contexte d’observations
+parmi les 37 situations à au moins épi 1 cm, seule une parcelle du cher est signalée avec de la rouille jaune.
+les symptômes, déjà signalés la semaine dernière, ont peu évolué : 10% des f3 du moment sont touchés.
+cependant, le risque reste élevé pour les variétés très sensibles (foyers visibles dans des parcelles
+d’altigo et d’alixan) et plutôt faible pour les autres.
+les variétés très sensibles qui sont à fin tallage sont à surveiller étroitement. pour les autres, une
+observation à partir du stade épi 1 cm est conseillée.</paraConstruit>\n</cultureAuto="">
+
+<cultureAuto="">
+<paraConstruit>fusariose de la base de la tige signalée dans 4 parcelles (départements 28 et 36) : entre 2.5 et 10 % des
+tiges sont touchés.
+symptômes de rhizoctone pour 4 parcelles (départements 18 et 37) : entre 1 et 8 % des tiges sont atteints.
+présence de rouille brune dans 4 parcelles (départements 18, 36 et 45) : entre 10 et 20 % des f3 du
+moment sont touchés. le risque pour cette maladie est nul avant le stade 2 nœuds.
+présence de septoriose sur les f2 ou f3 du moment dans 31 parcelles de la région. le risque pour cette
+maladie est nul avant le stade 2 nœuds.
+soupçon de viroses (non identifiée pour l’instant) dans une parcelle du cher.</paraConstruit>\n</cultureAuto="">
+
+<cultureAuto="blé dur">
+<paraConstruit><skos:prefLabel = "blé dur">blé dur</skos:prefLabel = "blé dur">
+stade
+rappel des stades de sensibilité aux maladies</paraConstruit>
+</cultureAuto="blé dur">
+
+<cultureAuto="">
+<paraConstruit>contexte d’observations
+13 parcelles du réseau ont fait l’objet d’une
+observation entre le 11 et le 15 mars (semaine 11).
+la majorité des parcelles est au stade épi 1 cm
+(54%). les parcelles les plus précoces, dans le loiret
+et le loir-et-cher, sont à 1 nœud.</paraConstruit>\n</cultureAuto="">
+
+<cultureAuto="">
+<paraConstruit>contexte d’observations
+aucune des 12 parcelles observées cette semaine ne présente de symptômes. le risque actuel est donc
+faible pour les variétés assez sensibles à résistantes. attention toutefois aux variétés très sensibles (ex :
+plussur, luminur).</paraConstruit>\n</cultureAuto="">
+
+<cultureAuto="">
+<paraConstruit>piétin verse : symptômes dans une parcelle du loir-et-cher (stade 1 nœud) déjà signalée la semaine
+précédente : 5% des tiges sont touchés. le risque est faible.
+oïdium sur 20% des f3 du moment dans une parcelle du loiret (variété relief) : le risque actuel est
+moyen.
+septoriose signalée sur les f3 du moment de 4 parcelles (dans le 28, 41 et 45). le risque pour cette
+maladie est nul avant le stade 2 nœuds.</paraConstruit>\n</cultureAuto="">
+
+<cultureAuto="">
+<paraConstruit><skos:prefLabel = "orge d’hiver">orge d’hiver</skos:prefLabel = "orge d’hiver">
+stade
+contexte d’observations
+entre le 11 et le 15 mars (semaine 11), 42 parcelles
+d’<skos:prefLabel = "orge d'hiver">orge d’hiver</skos:prefLabel = "orge d'hiver"> ont fait l’objet d’une observation. la
+majorité d’entre elles est à épi 1 cm (52%).
+comme la semaine précédente, la situation la plus
+précoce, dans le loiret, est au stade 1 nœud (etincel
+semée le 19 octobre).</paraConstruit>\n</cultureAuto="">
+
+<cultureAuto="">
+<paraConstruit>contexte d’observations
+le risque est nul avant le stade épi 1 cm. aucune des 11 parcelles à au moins épi 1 cm ne présente de
+symptômes d’oïdium : le risque est donc faible pour ce type de situations (variétés assez sensibles à peu
+sensibles).</paraConstruit>\n</cultureAuto="">
+
+<cultureAuto="">
+<paraConstruit>seuil indicatif de risque
+a partir du stade épi 1 cm, compter les 3 feuilles supérieures de 20 tiges principales (soit 60 feuilles) :
+pour les variétés sensibles : si plus de 20% des 3èmes ou 2èmes ou 1ères feuilles sont couvertes à plus
+de 5% de la surface des feuilles par un feutrage blanc.
+pour les autres variétés : si plus de 50% des 3èmes ou 2èmes ou 1ères feuilles touchées sont couvertes à
+plus de 5% de la surface des feuilles par un feutrage blanc.</paraConstruit>\n</cultureAuto="">
+
+<cultureAuto="">
+<paraConstruit>rhynchosporiose
+lien vers la fiche rhynchosporiose</paraConstruit>\n</cultureAuto="">
+
+<cultureAuto="">
+<paraConstruit>contexte d’observations
+le risque est nul avant le stade 1 nœud. aucune des 21 parcelles observées cette semaine pour cette
+maladie n’a atteint ce stade. les situations présentant déjà des symptômes (11 parcelles) sont à surveiller
+attentivement dans les jours à venir.</paraConstruit>\n</cultureAuto="">
+
+<cultureAuto="">
+<paraConstruit>seuil de nuisibilité
+a partir du stade 1 nœud, compter les 3 feuilles supérieures de 20 tiges principales (soit 60 feuilles) :
+• pour les variétés sensibles : si plus de 10% de feuilles atteintes et plus de 5 jours avec des
+précipitations supérieures à 1 mm depuis le stade 1 nœud
+• pour les autres variétés : si plus de 10% de feuilles atteintes et plus de 7 jours avec des précipitations
+supérieures à 1 mm depuis le stade 1 nœud.</paraConstruit>\n</cultureAuto="">
+
+<cultureAuto="">
+<paraConstruit>prévision
+les pluies annoncées pour la semaine sont faibles à nulles. le risque de nouvelles contaminations de
+rhynchosporiose resterait donc faible.</paraConstruit>\n</cultureAuto="">
+
+<cultureAuto="">
+<paraConstruit>helminthosporiose
+lien vers la fiche helminthosporiose</paraConstruit>\n</cultureAuto="">
+
+<cultureAuto="">
+<paraConstruit>contexte d’observations
+le risque est nul avant le stade 1 nœud. aucune des 22 parcelles observées cette semaine pour cette
+maladie n’a atteint ce stade. les situations présentant déjà des symptômes (18 parcelles) sont à surveiller
+attentivement dans les jours à venir.</paraConstruit>\n</cultureAuto="">
+
+<cultureAuto="">
+<paraConstruit>seuil de nuisibilité
+a partir du stade 1 nœud, compter les 3 feuilles supérieures de 20 tiges principales (soit 60 feuilles) :
+• pour les variétés sensibles : si plus de 10% de feuilles atteintes
+• pour les autres variétés : si plus de 25% de feuilles atteintes</paraConstruit>\n</cultureAuto="">
+
+<cultureAuto="">
+<paraConstruit>prévision
+les variations journalières des températures et les hygrométries annoncées seront favorables au
+développement de l’helminthosporiose. le risque pourrait augmenter dans les jours à venir, notamment
+pour les parcelles déjà touchées. les variétés sensibles sont à surveiller en priorité.</paraConstruit>\n</cultureAuto="">
+
+<cultureAuto="">
+<paraConstruit>rouille naine
+lien vers la fiche rouille naine</paraConstruit>\n</cultureAuto="">
+
+<cultureAuto="">
+<paraConstruit>contexte d’observations
+le risque est nul avant le stade 1 nœud. aucune des 16 parcelles observées cette semaine pour cette
+maladie n’a atteint ce stade. les situations présentant déjà des symptômes (4 parcelles) sont à surveiller
+attentivement dans les jours à venir. rappel : le risque dépend principalement de la sensibilité variétale.</paraConstruit>\n</cultureAuto="">
+
+<cultureAuto="">
+<paraConstruit>seuil de nuisibilité
+a partir du stade 1 nœud, compter les 3 feuilles supérieures de 20 tiges principales (soit 60 feuilles) :
+• pour les variétés sensibles : si plus de 10% de feuilles atteintes
+• pour les autres variétés : si plus de 50% de feuilles atteintes</paraConstruit>\n</cultureAuto="">
+
+<cultureAuto="">
+<paraConstruit>prévision
+l’augmentation des températures et le maintien de l’hygrométrie seront favorables à la rouille naine. les
+variétés sensibles à peu sensibles doivent donc être surveillées en priorité.</paraConstruit>\n</cultureAuto="">
+
+<cultureAuto="">
+<paraConstruit>autres maladies / ravageurs
+de la mosaïque de l’orge est signalée dans une parcelle de l’indre, à issoudun (variété isocel). au moins
+20% de la parcelle présente des symptômes répartis de manière hétérogène.</paraConstruit>\n</cultureAuto="">
+
+<cultureAuto="triticale">
+<paraConstruit><skos:prefLabel = "triticale">triticale</skos:prefLabel = "triticale">
+stade
+contexte d’observations
+5 parcelles de <skos:prefLabel = "triticale">triticale</skos:prefLabel = "triticale"> du réseau ont été observées entre 11 et le 15 mars (semaine 11). 2 d’entre elles sont à
+fin tallage (dans le cher et le loir-et-cher), 2 sont à épi 1 cm (dans l’indre et l’indre-et-loire) et la situation la
+plus précoce, dans l’indre, est toujours à 1 nœud.</paraConstruit>
+</cultureAuto="triticale">
+
+<cultureAuto="">
+<paraConstruit>maladies / ravageurs
+augmentation des symptômes d’oïdium dans la parcelle précoce de l’indre : 20% des f2 et 70% des f3 du
+moment sont touchés. le risque se maintiendra dans les jours à venir. pour les parcelles qui sont encore à fin
+tallage, une observation sera indispensable à partir du stade épi 1 cm pour évaluer le risque.
+des symptômes de septoriose sont signalées dans le loir-et-cher et le cher (stade fin tallage). pour cette
+dernière parcelle, de la rouille brune est également présente. le risque pour ces maladies est nul avant
+le stade 2 nœuds.</paraConstruit>\n</cultureAuto="">
+
+<cultureAuto="blé">
+<paraConstruit>annexes
+rappel des stades de sensibilité du <skos:prefLabel = "blé">blé</skos:prefLabel = "blé"> aux maladies</paraConstruit>
+</cultureAuto="blé">
+
+<cultureAuto="">
+<paraConstruit>piétin verse
+stades d’apparition
+on observe généralement les symptômes de la montaison à la maturité.</paraConstruit>\n</cultureAuto="">
+
+<cultureAuto="">
+<paraConstruit>symptômes
+sur gaine :
+tache ocellée (elliptique). la tache est bordée par un liseré brun diffus. après avoir soulevé
+successivement les gaines, on observe un ou plusieurs points noirs sur la tige
+correspondant à des amas mycéliens (stromas).
+sur épi :
+echaudage de l’ensemble de l’épi présentant une répartition aléatoire dans la parcelle.
+sur tige :
+le plus souvent une seule tache, plus rarement deux. la limite de la tache est peu
+délimitée, diffuse. elle se situe en général sous le premier nœud.
+a l’échelle de la plante entière :
+verse possible à maturité en cas de forte attaque.</paraConstruit>\n</cultureAuto="">
+
+<cultureAuto="">
+<paraConstruit>conditions climatiques favorables
+la pluviométrie élevée et les températures douces pendant l’automne et l'hiver favorisent
+l’évolution de la maladie. le modèle climatique top permet d’estimer le risque annuel.</paraConstruit>\n</cultureAuto="">
+
+<cultureAuto="">
+<paraConstruit>evaluation du risque agronomique à la parcelle
+l’estimation du risque piétin verse est largement déterminée par les conditions agronomiques de la parcelle
+(potentiel infectieux, milieu physique, variété et date de semis) et la prise en compte du climat de la levée du blé
+jusqu’au début montaison. une estimation est possible à partir de la grille ci-après.
+les notes de résistance attribuées par le geves à l’inscription des variétés ont déjà montré leur validité. ainsi, les
+variétés aux notes supérieures ou égales à 5 ne justifient pas d’une protection spécifique piétin verse.
+grille nationale d’évaluation du risque piétin verse avec prise en compte du climat de l’hiver
+source : arvalis - institut du végétal
+potentiel infectieux du sol
+travail du sol</paraConstruit>\n</cultureAuto="">
+
+<cultureAuto="">
+<paraConstruit>méthode d’observation
+prélever au champ (20 ou) 50 tiges issues de 10 points de prélèvement en parcourant une parcelle en diagonale
+retirer la terre et laver la base des tiges  observer les symptômes, classer les tiges et compter les tiges
+atteintes  calculer le % de tiges atteintes.</paraConstruit>\n</cultureAuto="">
+
+<cultureAuto="">
+<paraConstruit>oïdium
+stades d’apparition
+dès le stade 3 feuilles, le plus souvent entre fin tallage et 2 nœuds. peut ensuite progresser sur
+les feuilles et l’épi.</paraConstruit>\n</cultureAuto="">
+
+<cultureAuto="">
+<paraConstruit>symptômes
+a l’échelle de la parcelle :
+répartition homogène dans le champ (dissémination par le vent).
+a l’échelle des feuilles :
+l’attaque commence par les feuilles les plus basses, sur les gaines et les limbes.
+développement rapide même à basse température (5°c).
+touffes blanches, cotonneuses, éparses sur toute la feuille (face supérieure) qui deviennent
+brunes et grises. après quelques temps, apparition de ponctuations noires (cleistothèces).
+après rinçage par les pluies, il reste des traces des attaques sous forme de taches
+chlorotiques sur la feuille.
+a l’échelle de l’épi :
+touffes blanches, cotonneuses, sur les bords des glumelles, barbes.</paraConstruit>\n</cultureAuto="">
+
+<cultureAuto="">
+<paraConstruit>conditions climatiques favorables
+favorisé par une longue alternance de périodes avec et sans pluies. une forte pluie peut laver
+le mycélium présent sur les feuilles.</paraConstruit>\n</cultureAuto="">
+
+<cultureAuto="blé tendre">
+<paraConstruit>l’oïdium n’est plus une maladie dominante sur <skos:prefLabel = "blé tendre">blé tendre</skos:prefLabel = ‘blé tendre’> mais des différences de tolérance variétales existent.
+références</paraConstruit>
+</cultureAuto="blé tendre">
+
+<cultureAuto="blé dur">
+<paraConstruit>l’oïdium n’est pas une maladie dominante sur <skos:prefLabel = "blé dur">blé</skos:prefLabel = "blé dur"> dur. les différences de tolérance variétales sont peu
+marquées. l’oïdium est très lié à un excès d’azote précoce ou à un excès de végétation.</paraConstruit>
+</cultureAuto="blé dur">
+
+<cultureAuto="">
+<paraConstruit>rouille jaune
+stades d’apparition
+généralement de 1 nœud à dernière feuille, plus rarement au stade tallage.</paraConstruit>\n</cultureAuto="">
+
+<cultureAuto="">
+<paraConstruit>symptômes
+a l’échelle de la parcelle :
+1ères pustules localisées sur les feuilles du bas de quelques plantes dans la parcelle.
+foyers de petite surface, jaunes de loin, nettement délimités. si climat favorable,
+infestation possible de toute la parcelle.
+a l’échelle des feuilles :
+sur les feuilles supérieures, pustules jaunes parfois orangées, de petite taille, alignées entre
+les nervures, jusqu’à dessiner des stries (observables avec une loupe de poche).
+remarque :
+des taches chlorotiques allongées dans le sens des nervures sans pustules peuvent
+également être rencontrées (pustules encore en incubation).
+a un stade avancé, les stries jaunes cèdent la place à des pustules noires (téleutosores).
+a l’échelle de l’épi :
+- sous les glumes, spores sur le grain et la face intérieure des glumelles.
+- parfois décoloration des épillets.</paraConstruit>\n</cultureAuto="">
+
+<cultureAuto="">
+<paraConstruit>conditions climatiques favorables
+• printemps frais et humide, avec des températures moyennes modérées (10 à 15 °c). les températures élevées
+sont défavorables à la maladie.
+• les températures négatives stoppent l’activité de la maladie, mais ne détruisent pas l’inoculum. les hivers doux
+sont généralement favorables.</paraConstruit>\n</cultureAuto="">
+
+<cultureAuto="">
+<paraConstruit>méthode d’observation
+prélever 20 plantes  n’observer que les tiges les plus développées (maître brin) de chaque plante  observer
+les 3 dernières feuilles développées du moment (les plus jeunes formées, limbe déroulé)  compter
+séparément le nombre de f3, f2, f1 touchées  convertir chaque nombre en %.</paraConstruit>\n</cultureAuto="">
+
+<cultureAuto="">
+<paraConstruit>résistances des variétés
+plusieurs types de résistances à la rouille jaune existent :
+celles qui s’expriment dès le stade plantule (efficaces tout au long du cycle de la culture).
+celles qui se mettent en place au stade adulte (une fois un certain stade de développement atteint,
+généralement autour du stade gonflement). les variétés correspondantes peuvent être sensibles durant le
+tallage ou le début de la montaison, puis résistantes par la suite.
+les notes attribuées à chaque variété représentent les niveaux de résistance « au stade plantule + adulte ». des
+variétés assez résistantes ou résistantes peuvent donc présenter des pustules avant le stade gonflement, sans
+qu’il s’agisse d’un contournement de gènes. malgré une priorité à donner aux variétés les plus sensibles,
+l’observation de tout son parcellaire peut ainsi être judicieuse. toutefois, la nuisibilité d’une attaque précoce sur
+de telles variétés sera moins importante, pour une même intensité, que sur des variétés sensibles.
+echelle de la résistance des variétés de blé tendre à la rouille jaune
+source : arvalis - institut du végétal
+références</paraConstruit>\n</cultureAuto="">
+
+<cultureAuto="">
+<paraConstruit>rhynchosporiose
+stades d’apparition
+apparition possible dès l’automne et l’hiver mais ce n’est qu’entre les stades 1 nœud et
+gonflement que cette maladie devient nuisible.</paraConstruit>\n</cultureAuto="">
+
+<cultureAuto="">
+<paraConstruit>symptômes
+a l’échelle des feuilles :
+le limbe se décolore par taches qui prennent une coloration « vert de gris » pour blanchir
+progressivement au centre. elles se développent pour former des taches irrégulières, à
+centre clair et à périphérie brun foncé. elles se rejoignent ensuite et s’imbriquent les unes
+dans les autres. les attaques sont fréquentes à la base du limbe, sur les ligules et sur les
+gaines.</paraConstruit>\n</cultureAuto="">
+
+<cultureAuto="">
+<paraConstruit>conditions climatiques favorables
+pluies fréquentes et températures fraîches pendant la montaison. l’élévation des
+températures vers la fin de la montaison ralentit son développement.</paraConstruit>\n</cultureAuto="">
+
+<cultureAuto="">
+<paraConstruit>helminthosporiose
+stades d’apparition
+il n’est pas rare d’observer des symptômes en automne. cependant, cette maladie ne
+devient nuisible qu’à partir du stade 1 nœud.</paraConstruit>\n</cultureAuto="">
+
+<cultureAuto="">
+<paraConstruit>symptômes
+a l’échelle des feuilles :
+coloration brun foncé des deux faces. halo jaune non systématique mais caractéristique de
+la maladie. les symptômes longent généralement les nervures. deux formes distinctes de
+symptômes existent : en réseau et linaire, ou en tache ovale.</paraConstruit>\n</cultureAuto="">
+
+<cultureAuto="">
+<paraConstruit>conditions climatiques favorables
+les températures douces, les variations brutales de températures, une humidité élevée et la
+lumière sont favorables à la sporulation et/ou à la germination. les spores sont véhiculées
+par le vent.</paraConstruit>\n</cultureAuto="">
+
+<cultureAuto="">
+<paraConstruit>résistances des variétés
+echelle de la résistance des variétés d’orge d’hiver à l’helminthosporiose
+source : arvalis - institut du végétal
+orges 2 rangs</paraConstruit>\n</cultureAuto="">
+
+<cultureAuto="">
+<paraConstruit>rouille naine
+stades d’apparition
+généralement à la fin de la montaison pour les variétés sensibles. des pustules peuvent être
+observées en hiver, en particulier si celui-ci est très doux et les semis précoces.</paraConstruit>\n</cultureAuto="">
+
+<cultureAuto="">
+<paraConstruit>symptômes
+a l’échelle de la parcelle :
+la répartition est homogène dans la parcelle (dissémination par le vent).
+a l’échelle des feuilles :
+pustules allant du brun au brun orangé, dispersées sur la feuille, essentiellement sur la face
+supérieure. les quelques pustules du début d’attaque peuvent générer des centaines de
+pustules, si le climat est chaud et humide.</paraConstruit>\n</cultureAuto="">
+
+<cultureAuto="">
+<paraConstruit>conditions climatiques favorables
+ce champignon a besoin d'eau libre pour la germination des spores et son cycle est favorisé
+par des températures comprises entre 15 et 20°c.</paraConstruit>\n</cultureAuto="">
+

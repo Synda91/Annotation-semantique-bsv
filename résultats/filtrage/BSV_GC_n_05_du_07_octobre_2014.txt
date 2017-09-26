@@ -1,0 +1,224 @@
+<cultureAuto="">
+<paraConstruit>a retenir cette semaine
+- début timide du vol du charançon du bourgeon terminal
+- les macules de phoma sont de plus en plus présentes sur les feuilles
+- les pucerons verts sont toujours observés en quantité importante et le risque existe
+pour les parcelles de moins de 7 feuilles
+- 2% des parcelles n’ont pas encore atteint le stade 3 feuilles et nécessitent encore
+une surveillance vis-à-vis des altises.</paraConstruit>
+</cultureAuto="">
+
+<cultureAuto="">
+<paraConstruit>réseau 2014-2015
+le réseau 2014-2015 continue de se constituer. il y a aujourd’hui 64 parcelles de déclarées sous vigiculture pour le réseau bsv bourgogne. le bsv de cette semaine
+est réalisé à partir d’observations faites sur 54 parcelles du réseau ainsi que de remontées terrains.</paraConstruit>
+</cultureAuto="">
+
+<cultureAuto="colza">
+<paraConstruit>stade des <skos:prefLabel = "colza">colzas</skos:prefLabel = "colza">
+prévisions météorologiques du mercredi 08
+au mardi 14 octobre :
+les perturbations traversant la région vont
+se succéder pouvant
+apporter des quantités
+d’eau
+importantes.
+les températures devraient rester très
+douces avec des minimales
+comprises
+entre 11 et 13°c et
+des maximales comprises entre 18 et 20°
+c - source : météociel</paraConstruit>
+</cultureAuto="colza">
+
+<cultureAuto="colza">
+<paraConstruit>seulement 2% des parcelles n’ont pas encore atteint 3 feuilles. les parcelles les plus
+avancées sont maintenant à plus de 10 feuilles. la croissance des <skos:prefLabel = "colza">colzas</skos:prefLabel = "colza"> est favorisée par les conditions climatiques actuelles à savoir des pluies accompagnées de
+températures très douces. on note toujours de fortes hétérogénéités de stade intra
+parcellaire principalement dans les terres très argileuses (yonne et nièvre).
+rappel : un stade est atteint lorsque 50% des plantes sont à ce stade.</paraConstruit>
+</cultureAuto="colza">
+
+<cultureAuto="colza">
+<paraConstruit>grandes cultures n° 5 du 07 octobre 2014
+codification des stades :</paraConstruit>
+</cultureAuto="colza">
+
+<cultureAuto="colza">
+<paraConstruit>charançon du bourgeon terminal
+l’adulte a un corps noir et brillant. on observe des tâches latérales blanches entre le thorax et l’abdomen.
+les extrémités des pattes sont rousses. les dégâts sont occasionnés par des larves qui endommagent le
+bourgeon terminal. suite à ces attaques, au printemps le <skos:prefLabel = "colza">colza</skos:prefLabel = "colza"> présente un port buissonnant.
+</cultureAuto="colza">
+
+<cultureAuto="colza">
+période de risque  du développement des premières larves jusqu’au décollement du bourgeon
+terminal. la lutte contre les larves étant impossible, c’est l’arrivée des adultes qui va déclencher le
+début de la période de risque. la cuvette jaune est indispensable pour effectuer ce piégeage.
+seuil de nuisibilité  il n’y a pas de seuil de risque. etant donné la nuisibilité potentielle de cet insecte, il est considéré que seule sa présence sur les parcelles est un risque. par contre les femelles
+sont rarement aptes à pondre dès leur arrivée sur les parcelles. la durée de maturation étant variable, on retient un délai de 10 à 15 jours après les premières captures. le risque est d’autant plus
+important sur des <skos:prefLabel = "colza">colzas</skos:prefLabel = "colza"> à faible croissance.
+2</paraConstruit>
+</cultureAuto="colza">
+
+<cultureAuto="colza">
+<paraConstruit>51 parcelles renseignées</paraConstruit>
+</cultureAuto="colza">
+
+<cultureAuto="colza">
+<paraConstruit>sur l’ensemble de la région, les captures ont été observées sur moins de la moitié des parcelles (40%). le
+vol débute donc timidement avec en moyenne 4 individus piégés par cuvette. le faible piégeage de charançon du bourgeon terminal ne signifie pas « absence de risque » même si actuellement les conditions
+climatiques ne sont pas favorables à l’activité de ce ravageur.</paraConstruit>
+</cultureAuto="colza">
+
+<cultureAuto="colza">
+captures de charançon du bourgeon terminal
+entre le 01 et le 07 octobre 2014
+</cultureAuto="colza">
+
+<cultureAuto="colza">
+<paraConstruit><paraConstruitPartiellement>parallèlement à ce réseau de captures, des suivis de ponte sont mis en place afin d’évaluer au mieux le
+risque.
+-</paraConstruitPartiellement>
+</cultureAuto="colza">
+
+<cultureAuto="colza">
+<paraConstruitPartiellement>situations pour lesquelles les premières captures remontent à la semaine dernière</paraConstruitPartiellement>
+</cultureAuto="colza">
+
+<cultureAuto="colza">
+<paraConstruitPartiellement>parcelles pour lesquelles aucune capture n’a été détectée ou bien les captures ont été
+réalisées depuis moins d’une semaine</paraConstruitPartiellement></paraConstruit>
+</cultureAuto="colza">
+
+<cultureAuto="colza">
+<paraConstruit>grandes cultures n° 5 du 07 octobre 2014
+puceron vert du pécher</paraConstruit>
+</cultureAuto="colza">
+
+<cultureAuto="colza">
+photo : judith nagopae — ca 58
+</cultureAuto="colza">
+
+<cultureAuto="colza">
+<paraConstruit>période de risque  jusqu’au stade 6 feuilles de la culture, correspondant à la période de risque de
+transmission des viroses
+seuil de nuisibilité  20% de plantes portant des pucerons
+risque
+faible</paraConstruit>
+</cultureAuto="colza">
+
+<cultureAuto="colza">
+<paraConstruit>21 parcelles renseignées</paraConstruit>
+</cultureAuto="colza">
+
+<cultureAuto="colza">
+<paraConstruit>la présence des pucerons verts est stable par rapport à la semaine dernière et concerne une parcelle sur
+deux. leur présence est signalée en moyenne sur près de 20% des plantes dans les situations où on les observe (mais pouvant aller jusqu’à 80% de pieds porteurs). cette semaine, à la tour à succion d’auxerre, les
+captures d’ailés ont régressé.
+des relevés sur plaques engluées signalent la présence de pucerons virulifères.
+même si 75% des parcelles sont sorties de la période de risque (plus de 6 feuilles), il est important de bien
+prendre en compte la variabilité observée à l’intérieur d’une même parcelle pour évaluer le risque.
+tenthrède de la rave
+-</paraConstruit>
+</cultureAuto="colza">
+
+<cultureAuto="colza">
+<paraConstruit>période de risque  depuis la levée jusqu’au stade 6 feuilles, mais généralement plutôt entre 3 et 6
+feuilles en cas de population larvaire importante
+seuil de nuisibilité  présence de larves avec des dégâts sur feuilles supérieures au ¼ de la surface
+végétative.
+4</paraConstruit>
+</cultureAuto="colza">
+
+<cultureAuto="colza">
+grandes cultures n° 5 du 07 octobre 2014
+risque
+faible
+</cultureAuto="colza">
+
+<cultureAuto="colza">
+<paraConstruit>16 parcelles renseignées</paraConstruit>
+</cultureAuto="colza">
+
+<cultureAuto="colza">
+<paraConstruit>des larves sont signalées dans 1 situation avec au maximum 12% de la surface foliaire détruite.
+les dégâts sont généralement peu importants sauf si les <skos:prefLabel = "colza">colzas</skos:prefLabel = "colza"> végètent. dans des conditions favorables,
+s’il y a présence de larves, les dégâts apparents – jusqu’alors anodins – évoluent rapidement dans les jours
+qui suivent.</paraConstruit>
+</cultureAuto="colza">
+
+<cultureAuto="colza">
+<paraConstruit><paraConstruitPartiellement>altises d’hiver ou grosses altises
+ce ravageur peut occasionner des dégâts à deux phases de son cycle :
+? : à la fin de l’été, sur les jeunes cultures, les adultes reprennent leur activité pour s’alimenter et pour
+pondre
+? : en automne-hiver, les larves creusent des galeries d’abord dans les pétioles des feuilles, puis dans les
+cœurs des plantes au stade « rosette » ou dans les jeunes tiges
+-</paraConstruitPartiellement>
+</cultureAuto="colza">
+
+<cultureAuto="colza">
+<paraConstruitPartiellement>période de risque  depuis la levée jusqu’au stade 3 feuilles dans le cadre du risque adultes
+seuil de nuisibilité  8 pieds sur 10 portants des morsures sans dépasser le ¼ de la surface végétative
+ou 30 captures cumulées en cuvette</paraConstruitPartiellement></paraConstruit>
+</cultureAuto="colza">
+
+<cultureAuto="colza">
+<paraConstruit>au-delà du nombre de plantes avec dégâts, il est important de déterminer la surface végétative endommagée.
+risque
+faible</paraConstruit>
+</cultureAuto="colza">
+
+<cultureAuto="colza">
+<paraConstruit>17 parcelles renseignées</paraConstruit>
+</cultureAuto="colza">
+
+<cultureAuto="colza">
+<paraConstruit>les dégâts sur feuille semblent se stabiliser en lien avec l’évolution des stades. mais des captures sont toujours signalées dans 9 situations avec entre 2 et 35 individus piégés. la surveillance reste nécessaire pour
+toutes les parcelles n’ayant pas atteint le stade 3 feuilles. pour les autres, il faudra suivre la présence de
+larves dans les prochaines semaines.</paraConstruit>
+</cultureAuto="colza">
+
+<cultureAuto="colza">
+<paraConstruit>baris
+des captures de baris continuent d’être régulièrement signalées. on en signale cette semaine dans plus de
+90% des cuvettes avec des captures allant de 1 à 13 individus. la nuisibilité de ce ravageur est mal connue.
+c’est un des facteurs favorisant les pieds secs à maturité.
+les adultes peuvent être observés tout au long du cycle du <skos:prefLabel = "colza">colza</skos:prefLabel = "colza"> (voir identification ci-dessous).</paraConstruit>
+</cultureAuto="colza">
+
+<cultureAuto="colza">
+pour
+autres
+tions :
+</cultureAuto="colza">
+
+<cultureAuto="colza">
+<paraConstruit>39 parcelles renseignées</paraConstruit>
+</cultureAuto="colza">
+
+<cultureAuto="colza">
+<paraConstruit>les plantes présentant des macules de phoma sont en
+progression cette semaine. dans 40% des parcelles on
+note en moyenne 10% de pieds touchés.
+le risque phoma n’existe que lorsque plusieurs conditions sont réunies : <skos:prefLabel = "colza">colza</skos:prefLabel = "colza"> classé peu sensible (ps), pic
+de sporulation maximal enregistré alors que les plantes
+sont peu développées (moins de 6 feuilles) et donc sensibles ou bien si on cumule plusieurs facteurs aggravants (forte densité, mulch de pailles en surface, qui
+conduisent à une élongation de l’hypocotyle, excès
+d’eau).
+retrouvez le classement phoma de l’ensemble des variétés de <skos:prefLabel = "colza d’hiver">colza d’hiver</skos:prefLabel = "colza d’hiver"> dans le guide de culture <skos:prefLabel = "colza">colza</skos:prefLabel = "colza"> du
+cetiom et sur www.myvar.fr.
+photo cetiom : macules de phoma sur feuilles</paraConstruit>
+</cultureAuto="colza">
+
+<cultureAuto="">
+<paraConstruit>situations pour lesquelles les facteurs de risque sont réunis (variété classée peu sensible, plantes
+peu développées de moins de 6 feuilles…)
+risque
+faible</paraConstruit>\n</cultureAuto="">
+
+<cultureAuto="">
+<paraConstruit>pour les autres situations :
+6</paraConstruit>\n</cultureAuto="">
+
