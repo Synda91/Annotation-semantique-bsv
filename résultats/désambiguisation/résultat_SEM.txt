@@ -1,0 +1,38 @@
+<desambiguisation>moutarde brune</desambiguisation>
+
+<desambiguisation>blé tendre</desambiguisation>
+
+<desambiguisation>céréale</desambiguisation><desambiguisation>à paille</desambiguisation>
+
+<desambiguisation>céréale</desambiguisation><desambiguisation>à paille</desambiguisation>
+
+<desambiguisation>orge</desambiguisation><desambiguisation>orge</desambiguisation>
+
+<desambiguisation>orge</desambiguisation><desambiguisation>orge</desambiguisation>
+
+<desambiguisation>orge</desambiguisation>
+
+<desambiguisation>céréale</desambiguisation><desambiguisation>à paille</desambiguisation>
+
+<desambiguisation>blé</desambiguisation>
+
+<desambiguisation>blé dur</desambiguisation>
+
+<desambiguisation>orge</desambiguisation><desambiguisation>orge</desambiguisation>
+
+<desambiguisation>blé</desambiguisation>
+
+<desambiguisation>blé dur</desambiguisation>
+
+<desambiguisation>colza d’hiver</desambiguisation><desambiguisation>colza</desambiguisation>
+
+<desambiguisation>colza</desambiguisation>
+
+
+
+
+
+<desambiguisation>pois</desambiguisation><desambiguisation>pois</desambiguisation>
+
+
+
