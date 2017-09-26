@@ -1,0 +1,1748 @@
+Bulletin de santé du végétal
+Céréales à paille
+
+N° 13
+
+du 15/03/2016
+
+L’évaluation du risque d’une parcelle face à un bioagresseur repose sur une observation régulière
+de celle-ci. Pour estimer le risque de vos parcelles en cours de campagne, connaître la sensibilité de vos
+variétés et les leviers agronomiques à mettre en œuvre pour abaisser ce risque, reportez-vous aux fiches
+techniques présentes à la fin du BSV (accès direct en cliquant sur les liens en début de paragraphe).
+
+Blé tendre
+STADE
+Rappel des stades de sensibilité aux maladies
+
+Contexte d’observations
+79 parcelles du réseau ont fait l’objet d’une
+observation entre le 11 et le 15 mars (semaine 11).
+La majorité des situations est à épi 1 cm (63%).
+Les parcelles les plus précoces, dans l’Indre et l’Indreet-Loire, sont au stade 1 nœud (variété ½ précoce à
+montaison, semée entre le 1er et le 20 octobre).
+
+PIETIN VERSE
+Lien vers la fiche Piétin Verse
+
+Contexte d’observations
+Le risque est nul avant le stade épi 1 cm. Sur les 39 parcelles à au moins épi 1 cm, 6 présentent des
+symptômes de piétin verse : entre 1 et 3% des tiges sont atteintes (départements 28, 36 et 37). Le risque
+actuel est donc faible. Une nouvelle observation du pourcentage de tiges touchées sera indispensable pour
+l’ensemble des variétés sensibles lorsque le stade épi 1 cm sera atteint.
+
+Seuil indicatif de risque
+Dans les parcelles à risque agronomique (retour fréquent de blé, variété sensible, milieu favorable, semis
+précoce), à partir du stade épi 1 cm et jusqu’à 2 nœuds, déterminer le pourcentage de tiges atteintes (sur
+40 tiges) :
+
+Entre 10 et 30% de tiges atteintes (4 et 14 tiges sur 40), la nuisibilité est variable
+
+Au-delà de 35% de tiges atteintes (≥ 14 tiges / 40), la nuisibilité est certaine
+
+Prévision
+Pour les variétés sensibles, le risque piétin verse est déterminé par les conditions agronomiques de la parcelle
+(cf. grille d’estimation en annexe) et la prise en compte du climat entre la levée et le stade début montaison.
+L’influence du climat sur le développement du piétin verse est estimé grâce au modèle TOP.
+
+Bulletin rédigé par ARVALIS - Institut du végétal avec la participation de la Chambre d’Agriculture de l’Indre-et-Loire à partir des observations réalisées cette semaine par :
+AGRIAL, AGRICULTEURS, AGRIDIS LEPLATRE SA, AGROPITHIVIERS, ARVALIS INSTITUT DU VEGETAL, ASTRIA BASSIN PARISIEN, AXEREAL, CA 18, CA 28,
+CA 36, CA 37, CA 41, CA 45, CETA CHAMPAGNE BERRICHONNE, EPLEA CHATEAUROUX, EPLEFPA DU CHER, FDGEDA DU CHER, INTERFACE CEREALES,
+LYCEE AGRICOLE DU CHESNOY, SCAEL, SOUFFLET AGRICULTURE, UCATA.
+Directeur de publication : Jean-Pierre LEVEILLARD, Président de la Chambre régionale d’agriculture du Centre
+13 avenue des Droits de l’Homme – 45921 ORLEANS
+Ce bulletin est produit à partir d’observations ponctuelles. Il donne une tendance de la situation sanitaire régionale, qui ne peut pas être transposée telle quelle à la parcelle.
+La Chambre régionale d’agriculture du Centre dégage donc toute responsabilité quant aux décisions prises par les agriculteurs pour la protection de leurs cultures.
+Action pilotée par le Ministère chargé de l'agriculture avec l'appui financier de l'ONEMA, par les crédits issus de la redevance pour pollution diffuses attribués au financement du plan Ecophyto 2018.
+
+1
+
+BSV Céréales à paille N° 13
+
+Information du modèle TOP (SRPV), au 14/03/2016, fourni par ARVALIS-Institut du végétal :
+
+Pour les parcelles actuellement au stade épi 1 cm (semis les plus précoces), le risque climatique de la
+semaine est élevé en Eure-et-Loir et à l’est du Loiret, et moyen dans les autres départements de la région.
+Pour les semis tardifs, le risque climatique de la semaine est élevé en Indre-et-Loire (cf. graphique cidessus), moyen dans le Cher et l’Indre, et faible dans les autres départements de la région.
+Pour toutes les situations, il convient d’observer vos parcelles à partir du stade épi 1 cm.
+
+OÏDIUM
+Lien vers la fiche Oïdium
+
+Contexte d’observations
+Le risque est nul avant le stade épi 1 cm. Sur les 35 parcelles à au moins épi 1 cm, 2 présentent des
+symptômes d’oïdium (déjà signalées les semaines précédentes) :
+ Pour des variétés peu sensibles (Cellule et RGT Ampiezzo, dans le 28 et le 45), entre 20 et 40% des
+F3 du moment sont touchés : le risque actuel est donc faible.
+Les situations à fin tallage qui sont déjà touchées par cette maladie devront faire l’objet d’une surveillance
+étroite dès épi 1 cm.
+
+Seuil indicatif de risque
+A partir du stade épi 1 cm, en fonction des sensibilités variétales, le seuil indicatif de risque est :
+ pour les variétés sensibles : plus de 20% des 3èmes ou 2èmes ou 1ères feuilles sont atteints,
+ pour les autres variétés : plus de 50% des 3èmes ou 2èmes ou 1ères feuilles sont atteints.
+
+Prévision
+Les jours ensoleillés et secs et les hygrométries nocturnes annoncées seront favorables au développement de
+l’oïdium. La vigilance doit se maintenir pour les variétés sensibles.
+
+ROUILLE JAUNE
+Lien vers la fiche Rouille Jaune
+
+Contexte d’observations
+Parmi les 37 situations à au moins épi 1 cm, seule une parcelle du Cher est signalée avec de la rouille jaune.
+Les symptômes, déjà signalés la semaine dernière, ont peu évolué : 10% des F3 du moment sont touchés.
+Cependant, le risque reste élevé pour les variétés très sensibles (foyers visibles dans des parcelles
+d’Altigo et d’Alixan) et plutôt faible pour les autres.
+Les variétés très sensibles qui sont à fin tallage sont à surveiller étroitement. Pour les autres, une
+observation à partir du stade épi 1 cm est conseillée.
+
+Seuil indicatif de risque
+A partir du stade épi 1cm uniquement en présence de foyers actifs de rouille jaune (pustules pulvérulentes).
+A partir du stade 1 nœud, le seuil indicatif de risque est atteint dès l’apparition des premières pustules dans
+la parcelle.
+
+Directeur de publication : Jean-Pierre LEVEILLARD, Président de la Chambre régionale d’agriculture du Centre
+13 avenue des Droits de l’Homme – 45921 ORLEANS
+Ce bulletin est produit à partir d’observations ponctuelles. Il donne une tendance de la situation sanitaire régionale, qui ne peut pas être transposée telle quelle à la parcelle.
+La Chambre régionale d’agriculture du Centre dégage donc toute responsabilité quant aux décisions prises par les agriculteurs pour la protection de leurs cultures.
+
+2
+
+BSV Céréales à paille N° 13
+
+Prévision
+Les températures plus douces en journée, le vent et les hygrométries annoncées seront favorables au
+développement de la rouille jaune. Le risque pourrait augmenter dans les jours à venir, en particulier
+pour les variétés très sensibles.
+
+AUTRES
+
+MALADIES
+
+/ RAVAGEURS
+
+Fusariose de la base de la tige signalée dans 4 parcelles (départements 28 et 36) : entre 2.5 et 10 % des
+tiges sont touchés.
+Symptômes de rhizoctone pour 4 parcelles (départements 18 et 37) : entre 1 et 8 % des tiges sont atteints.
+Présence de rouille brune dans 4 parcelles (départements 18, 36 et 45) : entre 10 et 20 % des F3 du
+moment sont touchés. Le risque pour cette maladie est nul avant le stade 2 nœuds.
+Présence de septoriose sur les F2 ou F3 du moment dans 31 parcelles de la région. Le risque pour cette
+maladie est nul avant le stade 2 nœuds.
+Soupçon de viroses (non identifiée pour l’instant) dans une parcelle du Cher.
+
+Blé dur
+STADE
+Rappel des stades de sensibilité aux maladies
+
+Contexte d’observations
+13 parcelles du réseau ont fait l’objet d’une
+observation entre le 11 et le 15 mars (semaine 11).
+La majorité des parcelles est au stade épi 1 cm
+(54%). Les parcelles les plus précoces, dans le Loiret
+et le Loir-et-Cher, sont à 1 nœud.
+
+ROUILLE JAUNE
+Lien vers la fiche Rouille Jaune
+
+Contexte d’observations
+Aucune des 12 parcelles observées cette semaine ne présente de symptômes. Le risque actuel est donc
+faible pour les variétés assez sensibles à résistantes. Attention toutefois aux variétés très sensibles (ex :
+Plussur, Luminur).
+
+Seuil indicatif de risque
+A partir du stade épi 1cm uniquement en présence de foyers actifs de rouille jaune (pustules pulvérulentes).
+A partir du stade 1 nœud, le seuil indicatif de risque est atteint dès l’apparition des premières pustules dans
+la parcelle.
+
+Prévision
+Les températures plus douces en journée, le vent et les hygrométries annoncées seront favorables au
+développement de la rouille jaune. Le risque pourrait augmenter dans les jours à venir, en particulier
+pour les variétés très sensibles.
+
+AUTRES
+
+MALADIES
+
+/ RAVAGEURS
+
+Piétin verse : symptômes dans une parcelle du Loir-et-Cher (stade 1 nœud) déjà signalée la semaine
+précédente : 5% des tiges sont touchés. Le risque est faible.
+Oïdium sur 20% des F3 du moment dans une parcelle du Loiret (variété Relief) : le risque actuel est
+moyen.
+Septoriose signalée sur les F3 du moment de 4 parcelles (dans le 28, 41 et 45). Le risque pour cette
+maladie est nul avant le stade 2 nœuds.
+
+Directeur de publication : Jean-Pierre LEVEILLARD, Président de la Chambre régionale d’agriculture du Centre
+13 avenue des Droits de l’Homme – 45921 ORLEANS
+Ce bulletin est produit à partir d’observations ponctuelles. Il donne une tendance de la situation sanitaire régionale, qui ne peut pas être transposée telle quelle à la parcelle.
+La Chambre régionale d’agriculture du Centre dégage donc toute responsabilité quant aux décisions prises par les agriculteurs pour la protection de leurs cultures.
+
+3
+
+BSV Céréales à paille N° 13
+
+Orge d’hiver
+STADE
+Contexte d’observations
+Entre le 11 et le 15 mars (semaine 11), 42 parcelles
+d’orge d’hiver ont fait l’objet d’une observation. La
+majorité d’entre elles est à épi 1 cm (52%).
+Comme la semaine précédente, la situation la plus
+précoce, dans le Loiret, est au stade 1 nœud (Etincel
+semée le 19 octobre).
+
+OÏDIUM
+Lien vers la fiche Oïdium
+
+Contexte d’observations
+Le risque est nul avant le stade épi 1 cm. Aucune des 11 parcelles à au moins épi 1 cm ne présente de
+symptômes d’oïdium : le risque est donc faible pour ce type de situations (variétés assez sensibles à peu
+sensibles).
+
+Seuil indicatif de risque
+A partir du stade épi 1 cm, compter les 3 feuilles supérieures de 20 tiges principales (soit 60 feuilles) :
+ Pour les variétés sensibles : si plus de 20% des 3èmes ou 2èmes ou 1ères feuilles sont couvertes à plus
+de 5% de la surface des feuilles par un feutrage blanc.
+ Pour les autres variétés : si plus de 50% des 3èmes ou 2èmes ou 1ères feuilles touchées sont couvertes à
+plus de 5% de la surface des feuilles par un feutrage blanc.
+
+Prévision
+Les jours ensoleillés et secs et les hygrométries nocturnes annoncées seront favorables au développement de
+l’oïdium. La vigilance doit se maintenir pour les variétés sensibles.
+
+RHYNCHOSPORIOSE
+Lien vers la fiche Rhynchosporiose
+
+Contexte d’observations
+Le risque est nul avant le stade 1 nœud. Aucune des 21 parcelles observées cette semaine pour cette
+maladie n’a atteint ce stade. Les situations présentant déjà des symptômes (11 parcelles) sont à surveiller
+attentivement dans les jours à venir.
+
+Seuil de nuisibilité
+A partir du stade 1 nœud, compter les 3 feuilles supérieures de 20 tiges principales (soit 60 feuilles) :
+• Pour les variétés sensibles : si plus de 10% de feuilles atteintes et plus de 5 jours avec des
+précipitations supérieures à 1 mm depuis le stade 1 nœud
+• Pour les autres variétés : si plus de 10% de feuilles atteintes et plus de 7 jours avec des précipitations
+supérieures à 1 mm depuis le stade 1 nœud.
+
+Prévision
+Les pluies annoncées pour la semaine sont faibles à nulles. Le risque de nouvelles contaminations de
+rhynchosporiose resterait donc faible.
+
+Directeur de publication : Jean-Pierre LEVEILLARD, Président de la Chambre régionale d’agriculture du Centre
+13 avenue des Droits de l’Homme – 45921 ORLEANS
+Ce bulletin est produit à partir d’observations ponctuelles. Il donne une tendance de la situation sanitaire régionale, qui ne peut pas être transposée telle quelle à la parcelle.
+La Chambre régionale d’agriculture du Centre dégage donc toute responsabilité quant aux décisions prises par les agriculteurs pour la protection de leurs cultures.
+
+4
+
+BSV Céréales à paille N° 13
+
+HELMINTHOSPORIOSE
+Lien vers la fiche Helminthosporiose
+
+Contexte d’observations
+Le risque est nul avant le stade 1 nœud. Aucune des 22 parcelles observées cette semaine pour cette
+maladie n’a atteint ce stade. Les situations présentant déjà des symptômes (18 parcelles) sont à surveiller
+attentivement dans les jours à venir.
+
+Seuil de nuisibilité
+A partir du stade 1 nœud, compter les 3 feuilles supérieures de 20 tiges principales (soit 60 feuilles) :
+• Pour les variétés sensibles : si plus de 10% de feuilles atteintes
+• Pour les autres variétés : si plus de 25% de feuilles atteintes
+
+Prévision
+Les variations journalières des températures et les hygrométries annoncées seront favorables au
+développement de l’helminthosporiose. Le risque pourrait augmenter dans les jours à venir, notamment
+pour les parcelles déjà touchées. Les variétés sensibles sont à surveiller en priorité.
+
+ROUILLE NAINE
+Lien vers la fiche Rouille Naine
+
+Contexte d’observations
+Le risque est nul avant le stade 1 nœud. Aucune des 16 parcelles observées cette semaine pour cette
+maladie n’a atteint ce stade. Les situations présentant déjà des symptômes (4 parcelles) sont à surveiller
+attentivement dans les jours à venir. Rappel : le risque dépend principalement de la sensibilité variétale.
+
+Seuil de nuisibilité
+A partir du stade 1 nœud, compter les 3 feuilles supérieures de 20 tiges principales (soit 60 feuilles) :
+• Pour les variétés sensibles : si plus de 10% de feuilles atteintes
+• Pour les autres variétés : si plus de 50% de feuilles atteintes
+
+Prévision
+L’augmentation des températures et le maintien de l’hygrométrie seront favorables à la rouille naine. Les
+variétés sensibles à peu sensibles doivent donc être surveillées en priorité.
+
+AUTRES MALADIES / RAVAGEURS
+De la mosaïque de l’orge est signalée dans une parcelle de l’Indre, à Issoudun (variété Isocel). Au moins
+20% de la parcelle présente des symptômes répartis de manière hétérogène.
+
+Triticale
+STADE
+Contexte d’observations
+5 parcelles de triticale du réseau ont été observées entre 11 et le 15 mars (semaine 11). 2 d’entre elles sont à
+fin tallage (dans le Cher et le Loir-et-Cher), 2 sont à épi 1 cm (dans l’Indre et l’Indre-et-Loire) et la situation la
+plus précoce, dans l’Indre, est toujours à 1 nœud.
+
+MALADIES / RAVAGEURS
+Augmentation des symptômes d’oïdium dans la parcelle précoce de l’Indre : 20% des F2 et 70% des F3 du
+moment sont touchés. Le risque se maintiendra dans les jours à venir. Pour les parcelles qui sont encore à fin
+tallage, une observation sera indispensable à partir du stade épi 1 cm pour évaluer le risque.
+Des symptômes de septoriose sont signalées dans le Loir-et-Cher et le Cher (stade fin tallage). Pour cette
+dernière parcelle, de la rouille brune est également présente. Le risque pour ces maladies est nul avant
+le stade 2 nœuds.
+
+Directeur de publication : Jean-Pierre LEVEILLARD, Président de la Chambre régionale d’agriculture du Centre
+13 avenue des Droits de l’Homme – 45921 ORLEANS
+Ce bulletin est produit à partir d’observations ponctuelles. Il donne une tendance de la situation sanitaire régionale, qui ne peut pas être transposée telle quelle à la parcelle.
+La Chambre régionale d’agriculture du Centre dégage donc toute responsabilité quant aux décisions prises par les agriculteurs pour la protection de leurs cultures.
+
+5
+
+BSV Céréales à paille N° 13
+
+Annexes
+Rappel des stades de sensibilité du blé aux maladies
+
+Retour
+Stades Blé tendre
+Stades Blé dur
+
+Directeur de publication : Jean-Pierre LEVEILLARD, Président de la Chambre régionale d’agriculture du Centre
+13 avenue des Droits de l’Homme – 45921 ORLEANS
+Ce bulletin est produit à partir d’observations ponctuelles. Il donne une tendance de la situation sanitaire régionale, qui ne peut pas être transposée telle quelle à la parcelle.
+La Chambre régionale d’agriculture du Centre dégage donc toute responsabilité quant aux décisions prises par les agriculteurs pour la protection de leurs cultures.
+
+6
+
+BSV Céréales à paille N° 13
+
+Piétin Verse
+Stades d’apparition
+On observe généralement les symptômes de la montaison à la maturité.
+
+Symptômes
+Sur gaine :
+ Tache ocellée (elliptique). La tache est bordée par un liseré brun diffus. Après avoir soulevé
+successivement les gaines, on observe un ou plusieurs points noirs sur la tige
+correspondant à des amas mycéliens (stromas).
+Sur épi :
+ Echaudage de l’ensemble de l’épi présentant une répartition aléatoire dans la parcelle.
+Sur tige :
+ Le plus souvent une seule tache, plus rarement deux. La limite de la tache est peu
+délimitée, diffuse. Elle se situe en général sous le premier nœud.
+A l’échelle de la plante entière :
+ Verse possible à maturité en cas de forte attaque.
+
+Conditions climatiques favorables
+La pluviométrie élevée et les températures douces pendant l’automne et l'hiver favorisent
+l’évolution de la maladie. Le modèle climatique TOP permet d’estimer le risque annuel.
+
+Leviers agronomiques
+
+Directeur de publication : Jean-Pierre LEVEILLARD, Président de la Chambre régionale d’agriculture du Centre
+13 avenue des Droits de l’Homme – 45921 ORLEANS
+Ce bulletin est produit à partir d’observations ponctuelles. Il donne une tendance de la situation sanitaire régionale, qui ne peut pas être transposée telle quelle à la parcelle.
+La Chambre régionale d’agriculture du Centre dégage donc toute responsabilité quant aux décisions prises par les agriculteurs pour la protection de leurs cultures.
+
+7
+
+BSV Céréales à paille N° 13
+
+Evaluation du risque agronomique à la parcelle
+L’estimation du risque piétin verse est largement déterminée par les conditions agronomiques de la parcelle
+(potentiel infectieux, milieu physique, variété et date de semis) et la prise en compte du climat de la levée du blé
+jusqu’au début montaison. Une estimation est possible à partir de la grille ci-après.
+Les notes de résistance attribuées par le GEVES à l’inscription des variétés ont déjà montré leur validité. Ainsi, les
+variétés aux notes supérieures ou égales à 5 ne justifient pas d’une protection spécifique piétin verse.
+Grille nationale d’évaluation du risque piétin verse avec prise en compte du climat de l’hiver
+Source : ARVALIS - Institut du végétal
+Potentiel infectieux du sol
+Travail du sol
+
+Précédent
+
+Antéprécédent
+
+Note
+
+Indifférent
+
+Blé
+
+Blé
+
+4
+
+Non labour
+
+Blé
+
+Autre
+
+4
+
+Labour
+
+Blé
+
+Autre
+
+2
+
+Labour
+
+Autre
+
+Blé
+
+3
+
+Non labour
+
+Autre
+
+Blé
+
+2
+
+Indifférent
+
+Autre
+
+Autre
+
+1
+
+Note totale supérieur à 7
+risque FORT :
+Un traitement spécifique
+contre le piétin verse
+est probablement nécessaire
+
+
+
+Milieu physique
+Type de sol
+
+Note
+
+Limon battant
+
+1
+
+Autres sol
+
+0
+
+Sensibilité au P. verse
+
+Note
+
+Note CTPS 1 ou 2
+
+2
+
+Note CTPS 3 ou 4
+
+1
+
+Note CTPS ≥ 5
+
+-3
+
+Note totale entre 6 et 7
+risque MOYEN :
+Le comptage des tiges
+
+touchéesest conseillé
+
+Effet variétal
+
+Effet climatique
+
+* Selon
+régions
+
+Date de semis
+
+Note
+
+Précoce* avant le 25/10
+
+2
+
+Après le 25/10
+
+1
+
+Indice climatique TOP au
+stade épi 1 cm
+
+Note
+
+Indice TOP élevé
+
+1
+
+Indice TOP moyen
+
+0
+
+Indice TOP faible
+
+-2
+
+
+5
+
+Note totale inférieure à 6
+risque FAIBLE :
+Ne pas traiter le piétin verse
+
+
+
+Note totale
+(niveau de risque à épi 1cm)
+
+Méthode d’observation
+Prélever au champ (20 ou) 50 tiges issues de 10 points de prélèvement en parcourant une parcelle en diagonale
+ Retirer la terre et laver la base des tiges  Observer les symptômes, classer les tiges et compter les tiges
+atteintes  Calculer le % de tiges atteintes.
+
+Directeur de publication : Jean-Pierre LEVEILLARD, Président de la Chambre régionale d’agriculture du Centre
+13 avenue des Droits de l’Homme – 45921 ORLEANS
+Ce bulletin est produit à partir d’observations ponctuelles. Il donne une tendance de la situation sanitaire régionale, qui ne peut pas être transposée telle quelle à la parcelle.
+La Chambre régionale d’agriculture du Centre dégage donc toute responsabilité quant aux décisions prises par les agriculteurs pour la protection de leurs cultures.
+
+8
+
+BSV Céréales à paille N° 13
+
+Résistances des variétés
+Echelle de la résistance des variétés de blé tendre au piétin verse
+Source : ARVALIS - Institut du végétal
+
+Les variétés avec des notes de sensibilité GEVES de 5 et au-delà ne justifient pas de traitement.
+Références
+
+Les plus résistants
+SCENARIO
+
+GALACTIC
+
+BOREGAR
+
+7
+
+INTERET
+
+BERMUDE
+
+ALLEZ Y
+
+AZZERTI
+
+6
+
+TULIP SY MATTIS
+
+MUSIK
+
+RENAN
+
+LYRIK
+
+HYBERY
+
+FLUOR
+
+5
+
+APRILIO
+
+ASCOTT
+
+ALIXAN
+
+4
+
+COMPIL
+
+CELLULE
+
+BAROK
+
+HYTECK
+
+GRAINDOR
+
+EXPERT
+
+EPHOROS
+
+PAKITO
+
+OXEBO
+
+LAURIER
+
+ILLICO
+
+SY MOISSON
+
+SOLLARIO
+
+(RUSTIC)
+
+PALEDOR
+
+ADVISOR
+
+GOTIK
+
+SYLLON
+
+HYGUARDO
+
+(DESCARTES)
+
+(VYCKOR)
+
+GRAPELI
+
+AIGLE
+
+AUCKLAND
+
+CAMELEON
+
+CHEVRON
+
+LITHIUM
+
+RGT TEKNO
+
+SHERLOCK
+
+ACCROC
+
+APLOMB
+
+ARMADA
+
+ATOUPIC
+
+AYMERIC
+
+CALISOL
+
+CALUMET
+
+COLLECTOR
+
+(CREEK)
+
+DIAMENTO
+
+DIDEROT
+
+(FENOMEN)
+
+FORCALI
+
+FOXYL
+
+FRUCTIDOR
+
+GALLIXE
+
+HYWIN
+
+MANDRAGOR
+
+PHILEAS
+
+POPEYE
+
+REBELDE
+
+RGT MONDIO
+
+RGT TEXACO
+
+SALVADOR
+
+TERROIR
+
+THALYS
+
+TRIOMPH
+
+(COSTELLO)
+
+GRANAMAX
+
+KUNDERA
+
+MATHEO
+
+NEMO
+
+RGT KILIMANJARO
+
+SOTHYS CS
+
+STADIUM
+
+BERGAMO
+
+ARKEOS
+
+APACHE
+
+ALTAMIRA
+
+GONCOURT
+
+GALIBIER
+
+CALABRO
+
+BRENTANO
+
+OREGRAIN
+
+(LEAR)
+
+HYSUN
+
+HYSTAR
+
+SOISSONS
+
+SELEKT
+
+RUBISKO
+
+RONSARD
+
+SOLVEIG
+
+SOLEHIO
+
+SOKAL
+
+BOISSEAU
+
+AREZZO
+
+ALTIGO
+
+TOBAK
+
+EUCLIDE
+
+TRAPEZ
+
+Variétés récentes
+
+3
+
+2
+
+HYFI
+
+GHAYTA
+
+VALDO
+
+1
+
+Les plus sensibles
+( ) : à confirmer
+
+Source : GEVES / ARVALIS
+
+Retour
+Piétin verse Blé tendre
+
+Directeur de publication : Jean-Pierre LEVEILLARD, Président de la Chambre régionale d’agriculture du Centre
+13 avenue des Droits de l’Homme – 45921 ORLEANS
+Ce bulletin est produit à partir d’observations ponctuelles. Il donne une tendance de la situation sanitaire régionale, qui ne peut pas être transposée telle quelle à la parcelle.
+La Chambre régionale d’agriculture du Centre dégage donc toute responsabilité quant aux décisions prises par les agriculteurs pour la protection de leurs cultures.
+
+9
+
+BSV Céréales à paille N° 13
+
+Oïdium
+Stades d’apparition
+Dès le stade 3 feuilles, le plus souvent entre fin tallage et 2 nœuds. Peut ensuite progresser sur
+les feuilles et l’épi.
+
+Symptômes
+A l’échelle de la parcelle :
+Répartition homogène dans le champ (dissémination par le vent).
+A l’échelle des feuilles :
+ L’attaque commence par les feuilles les plus basses, sur les gaines et les limbes.
+Développement rapide même à basse température (5°C).
+ Touffes blanches, cotonneuses, éparses sur toute la feuille (face supérieure) qui deviennent
+brunes et grises. Après quelques temps, apparition de ponctuations noires (cleistothèces).
+ Après rinçage par les pluies, il reste des traces des attaques sous forme de taches
+chlorotiques sur la feuille.
+A l’échelle de l’épi :
+ Touffes blanches, cotonneuses, sur les bords des glumelles, barbes.
+
+Conditions climatiques favorables
+Favorisé par une longue alternance de périodes avec et sans pluies. Une forte pluie peut laver
+le mycélium présent sur les feuilles.
+
+Leviers agronomiques
+
+Méthode d’observation
+Prélever 20 plantes  N’observer que les tiges les plus développées (maître brin) de chaque plante  Observer
+les 3 dernières feuilles développées du moment (les plus jeunes formées, limbe déroulé)  Compter
+séparément le nombre de F3, F2, F1 touchées  Convertir chaque nombre en %.
+Directeur de publication : Jean-Pierre LEVEILLARD, Président de la Chambre régionale d’agriculture du Centre
+13 avenue des Droits de l’Homme – 45921 ORLEANS
+Ce bulletin est produit à partir d’observations ponctuelles. Il donne une tendance de la situation sanitaire régionale, qui ne peut pas être transposée telle quelle à la parcelle.
+La Chambre régionale d’agriculture du Centre dégage donc toute responsabilité quant aux décisions prises par les agriculteurs pour la protection de leurs cultures.
+
+10
+
+BSV Céréales à paille N° 13
+
+Résistances des variétés
+Echelle de la résistance des variétés de blé tendre à l’oïdium
+Source : ARVALIS - Institut du végétal
+
+L’oïdium n’est plus une maladie dominante sur blé tendre mais des différences de tolérance variétales existent.
+Références
+
+Nouveautés et variétés récentes
+
+Les plus résistants
+BOISSEAU
+
+RUBISKO
+
+(COSTELLO)
+
+(FENOMEN)
+
+(HYGUARDO)
+
+AIGLE
+
+DIDEROT
+
+(RGT TEKNO)
+
+CAMELEON
+
+MATHEO
+
+RGT KILIMANJARO SYLLON
+
+STARWAY
+
+(CREEK)
+
+ESPART
+
+HYWIN
+
+(PHILEAS)
+
+FAIRPLAY
+
+ADVISOR
+
+APLOMB
+
+FRUCTIDOR
+
+HYBIZA
+
+CALABRO
+
+LITHIUM
+
+(RGT TEXACO) SOTHYS CS
+
+TERROIR
+
+CELLULE
+
+RECIPROC TENTATION
+
+AUCKLAND
+
+FOXYL
+
+SY MOISSON BAROK
+
+(GOTIK)
+
+(KUNDERA)
+
+TRAPEZ
+
+LEAR
+
+DIAMENTO
+
+(MODERN)
+
+RGT MONDIO
+
+TOBAK
+
+ALLEZ Y
+
+EXPERT
+
+AREZZO
+
+ARMADA
+
+(POPEYE)
+
+(TRIOMPH)
+
+VALDO
+
+SOLEHIO
+
+HYFI
+
+SALVADOR
+
+ARKEOS
+
+(ALHAMBRA) ATOUPIC
+
+COLLECTOR
+
+GALLIXE
+
+ASCOTT
+
+(VYCKOR)
+
+FLUOR
+
+MANDRAGOR
+
+LAVOISIER
+
+(SHERLOCK)
+
+BERMUDE
+OREGRAIN
+LYRIK
+
+APACHE
+
+PAKITO
+
+BERGAMO
+
+GRANAMAX
+
+NEMO
+
+GRAPELI
+CALUMET
+
+DESCARTES
+
+RGT VENEZIO
+
+HYSTAR
+
+Les plus sensibles
+Source : essais pluriannuels, 15 en 2015
+() : à confirmer
+
+Echelle de la résistance des variétés de blé dur à l’oïdium
+Source : ARVALIS - Institut du végétal
+
+L’oïdium n’est pas une maladie dominante sur blé dur. Les différences de tolérance variétales sont peu
+marquées. L’oïdium est très lié à un excès d’azote précoce ou à un excès de végétation.
+
+Retour
+Oïdium Blé tendre
+Oïdium Orge d’hiver
+
+Directeur de publication : Jean-Pierre LEVEILLARD, Président de la Chambre régionale d’agriculture du Centre
+13 avenue des Droits de l’Homme – 45921 ORLEANS
+Ce bulletin est produit à partir d’observations ponctuelles. Il donne une tendance de la situation sanitaire régionale, qui ne peut pas être transposée telle quelle à la parcelle.
+La Chambre régionale d’agriculture du Centre dégage donc toute responsabilité quant aux décisions prises par les agriculteurs pour la protection de leurs cultures.
+
+11
+
+BSV Céréales à paille N° 13
+
+Rouille Jaune
+Stades d’apparition
+Généralement de 1 nœud à dernière feuille, plus rarement au stade tallage.
+
+Symptômes
+A l’échelle de la parcelle :
+ 1ères pustules localisées sur les feuilles du bas de quelques plantes dans la parcelle.
+ Foyers de petite surface, jaunes de loin, nettement délimités. Si climat favorable,
+infestation possible de toute la parcelle.
+A l’échelle des feuilles :
+ Sur les feuilles supérieures, pustules jaunes parfois orangées, de petite taille, alignées entre
+les nervures, jusqu’à dessiner des stries (observables avec une loupe de poche).
+Remarque :
+ Des taches chlorotiques allongées dans le sens des nervures sans pustules peuvent
+également être rencontrées (pustules encore en incubation).
+ A un stade avancé, les stries jaunes cèdent la place à des pustules noires (téleutosores).
+A l’échelle de l’épi :
+- Sous les glumes, spores sur le grain et la face intérieure des glumelles.
+- Parfois décoloration des épillets.
+
+Conditions climatiques favorables
+• Printemps frais et humide, avec des températures moyennes modérées (10 à 15 °C). Les températures élevées
+sont défavorables à la maladie.
+• Les températures négatives stoppent l’activité de la maladie, mais ne détruisent pas l’inoculum. Les hivers doux
+sont généralement favorables.
+
+Leviers agronomiques
+
+Directeur de publication : Jean-Pierre LEVEILLARD, Président de la Chambre régionale d’agriculture du Centre
+13 avenue des Droits de l’Homme – 45921 ORLEANS
+Ce bulletin est produit à partir d’observations ponctuelles. Il donne une tendance de la situation sanitaire régionale, qui ne peut pas être transposée telle quelle à la parcelle.
+La Chambre régionale d’agriculture du Centre dégage donc toute responsabilité quant aux décisions prises par les agriculteurs pour la protection de leurs cultures.
+
+12
+
+BSV Céréales à paille N° 13
+
+Méthode d’observation
+Prélever 20 plantes  N’observer que les tiges les plus développées (maître brin) de chaque plante  Observer
+les 3 dernières feuilles développées du moment (les plus jeunes formées, limbe déroulé)  Compter
+séparément le nombre de F3, F2, F1 touchées  Convertir chaque nombre en %.
+
+Résistances des variétés
+Plusieurs types de résistances à la rouille jaune existent :
+ Celles qui s’expriment dès le stade plantule (efficaces tout au long du cycle de la culture).
+ Celles qui se mettent en place au stade adulte (une fois un certain stade de développement atteint,
+généralement autour du stade gonflement). Les variétés correspondantes peuvent être sensibles durant le
+tallage ou le début de la montaison, puis résistantes par la suite.
+Les notes attribuées à chaque variété représentent les niveaux de résistance « au stade plantule + adulte ». Des
+variétés assez résistantes ou résistantes peuvent donc présenter des pustules avant le stade gonflement, sans
+qu’il s’agisse d’un contournement de gènes. Malgré une priorité à donner aux variétés les plus sensibles,
+l’observation de tout son parcellaire peut ainsi être judicieuse. Toutefois, la nuisibilité d’une attaque précoce sur
+de telles variétés sera moins importante, pour une même intensité, que sur des variétés sensibles.
+Echelle de la résistance des variétés de blé tendre à la rouille jaune
+Source : ARVALIS - Institut du végétal
+Références
+
+No uveautés et variétés récentes
+
+Les plus résistants
+
+Résistants
+
+(GA LA CTIC) (B OISSEA U)
+
+TOB A K
+
+B OLOGNA
+
+B ERM UDE
+
+P OP EYE
+
+SHERLOCK
+
+TERROIR
+
+VYCKOR
+
+COSTELLO
+
+LENNOX
+
+M A THEO
+
+RGT M ONDIO
+
+CA LUM ET
+
+COLLECTOR
+
+FENOM EN
+
+NEM O
+
+SA LVA DOR
+
+SOTHYS CS
+
+A DVISOR
+
+DESCA RTES
+
+LA VOISIER
+
+RGT VENEZIO
+
+FOXYL
+
+GRA NA M A X
+
+Assez résistants
+SY M OISSON
+
+(SCENA RIO) CA LA B RO
+
+A IGLE
+
+CREEK
+
+SOKA L
+
+P A KITO
+
+A REZZO
+
+HYGUA RDO
+
+TRIOM P H
+
+SOLEHIO
+
+RUB ISKO
+
+FLUOR
+
+FA LA DO
+
+THA LYS
+
+CELLULE
+
+A P A CHE
+
+A TOUP IC
+
+FRUCTIDOR
+
+GA LLIXE
+
+M EETING
+
+KUNDERA
+
+LITHIUM
+
+A RM A DA
+
+A UCKLA ND
+
+A RKEOS
+
+(GHA YTA )
+
+(REB ELDE)
+
+B ERGA M O
+
+DIA M ENTO
+
+NORWA Y
+
+RGT TEKNO
+
+(FORCA LI)
+
+GOTIK
+
+HYB IZA
+
+STA RWA Y
+
+GRA P ELI
+
+Moyennem ent sensibles
+
+OREGRA IN
+
+CHEVRON
+
+A CCROC
+
+A YM ERIC
+
+(GA LIB IER)
+
+EXP ERT
+
+M A NDRA GOR P HILEA S
+
+(A M B ITION)
+
+B A ROK
+
+DIDEROT
+
+RGT TEXA CO (SOB RED)
+
+B OREGA R
+
+A SCOTT
+
+SYLLON
+
+Assez sensibles
+LEA R
+
+A LLEZ Y
+
+LYRIK
+
+HYSTA R
+
+A P LOM B
+
+ESP A RT
+
+RGT KILIM A NJA RO
+
+RONSA RD
+
+CA M ELEON
+
+(TIEP OLO)
+
+TENTA TION
+
+(P A LEDOR)
+
+A LTIGO
+
+B ELEP I
+
+RECIP ROC
+
+STA DIUM
+
+(QUA LITY)
+
+(NOGA L)
+
+M ODERN
+
+LA URIER
+
+A LIXA N
+
+HYFI
+
+HYSUN
+
+FA IRP LA Y
+
+HYWIN
+
+Sensibles
+
+Très sensibles
+(HYXTRA )
+
+TRA P EZ
+
+() à co nfirmer
+
+Les plus sensibles
+
+Directeur de publication : Jean-Pierre LEVEILLARD, Président de la Chambre régionale d’agriculture du Centre
+13 avenue des Droits de l’Homme – 45921 ORLEANS
+Ce bulletin est produit à partir d’observations ponctuelles. Il donne une tendance de la situation sanitaire régionale, qui ne peut pas être transposée telle quelle à la parcelle.
+La Chambre régionale d’agriculture du Centre dégage donc toute responsabilité quant aux décisions prises par les agriculteurs pour la protection de leurs cultures.
+
+13
+
+BSV Céréales à paille N° 13
+
+Echelle de la résistance des variétés de blé dur à la rouille jaune
+Source : ARVALIS - Institut du végétal
+Références
+
+Variétés récentes
+Variétés peu sensibles
+9
+8.5
+
+ATOUDUR
+
+BIENSUR
+
+FLORIDOU
+TABLUR
+
+8
+
+ANVERGUR GIBUS
+NOBILIS
+PASTADOU DAURUR RGT_FABIONUR
+RGT_IZALMUR HARISTIDE
+
+Variétés
+moyennement
+sensibles
+
+Variétés peu
+sensibles
+
+7.5
+FABULIS
+KARUR PICTUR
+QUALIDOU SY_BANCO
+
+7
+
+CASTELDOUX
+
+RGT_NOMUR
+
+6.5
+ISILDUR
+
+PESCADOU
+
+SCULPTUR
+
+6
+5.5
+
+MIRADOUX
+
+5
+
+RELIEF
+
+RGT_MUSCLUR
+
+4.5
+ALEXIS
+
+PLUSSUR
+
+4
+
+Variétés
+sensibles
+
+3.5
+LUMINUR
+
+3
+2.5
+2
+1.5
+1
+
+Variétés sensibles
+Source : essais pluriannuels ARVALIS (1998-2015)
+
+Retour
+Rouille Jaune Blé tendre
+Rouille Jaune Blé dur
+
+Directeur de publication : Jean-Pierre LEVEILLARD, Président de la Chambre régionale d’agriculture du Centre
+13 avenue des Droits de l’Homme – 45921 ORLEANS
+Ce bulletin est produit à partir d’observations ponctuelles. Il donne une tendance de la situation sanitaire régionale, qui ne peut pas être transposée telle quelle à la parcelle.
+La Chambre régionale d’agriculture du Centre dégage donc toute responsabilité quant aux décisions prises par les agriculteurs pour la protection de leurs cultures.
+
+14
+
+BSV Céréales à paille N° 13
+
+Rhynchosporiose
+Stades d’apparition
+Apparition possible dès l’automne et l’hiver mais ce n’est qu’entre les stades 1 nœud et
+gonflement que cette maladie devient nuisible.
+
+Symptômes
+A l’échelle des feuilles :
+Le limbe se décolore par taches qui prennent une coloration « vert de gris » pour blanchir
+progressivement au centre. Elles se développent pour former des taches irrégulières, à
+centre clair et à périphérie brun foncé. Elles se rejoignent ensuite et s’imbriquent les unes
+dans les autres. Les attaques sont fréquentes à la base du limbe, sur les ligules et sur les
+gaines.
+
+Conditions climatiques favorables
+Pluies fréquentes et températures fraîches pendant la montaison. L’élévation des
+températures vers la fin de la montaison ralentit son développement.
+
+Leviers agronomiques
+
+Méthode d’observation
+Prélever 20 plantes  N’observer que les tiges les plus développées (maître brin) de chaque plante  Observer
+les 3 dernières feuilles développées du moment (les plus jeunes formées, limbe déroulé)  Compter le nombre
+de F3, F2, F1 touchées (60 feuilles au total)  Convertir en %.
+Directeur de publication : Jean-Pierre LEVEILLARD, Président de la Chambre régionale d’agriculture du Centre
+13 avenue des Droits de l’Homme – 45921 ORLEANS
+Ce bulletin est produit à partir d’observations ponctuelles. Il donne une tendance de la situation sanitaire régionale, qui ne peut pas être transposée telle quelle à la parcelle.
+La Chambre régionale d’agriculture du Centre dégage donc toute responsabilité quant aux décisions prises par les agriculteurs pour la protection de leurs cultures.
+
+15
+
+BSV Céréales à paille N° 13
+
+Résistances des variétés
+Echelle de la résistance des variétés d’orge d’hiver à la rhynchosporiose
+Source : ARVALIS - Institut du végétal
+
+Echelle de la résistance des variétés d’orge de printemps à la rhynchosporiose
+Source : ARVALIS - Institut du végétal
+
+Les plus résistantes
+
+Références
+
+Overture
+
+Variétés récentes
+
+(Challenge)
+
+(RGT Planet)
+
+(Marylin)
+
+Sanette
+
+(Torbellino)
+
+Grace
+KWS Irina
+
+Odyssey
+
+Scarlett
+
+Sebastian
+
+(Soulmate)
+Style
+
+Explorer
+
+Henrike
+(Gesine)
+
+(Beatrix)
+
+(Sangria)
+
+Les plus sensibles
+
+() : à confirmer
+Sources : essais pluriannuels, 4 en 2015
+
+Retour
+Rhynchosporiose Orge d’hiver
+Rhynchosporiose Orge de printemps
+Directeur de publication : Jean-Pierre LEVEILLARD, Président de la Chambre régionale d’agriculture du Centre
+13 avenue des Droits de l’Homme – 45921 ORLEANS
+Ce bulletin est produit à partir d’observations ponctuelles. Il donne une tendance de la situation sanitaire régionale, qui ne peut pas être transposée telle quelle à la parcelle.
+La Chambre régionale d’agriculture du Centre dégage donc toute responsabilité quant aux décisions prises par les agriculteurs pour la protection de leurs cultures.
+
+16
+
+BSV Céréales à paille N° 13
+
+Helminthosporiose
+Stades d’apparition
+Il n’est pas rare d’observer des symptômes en automne. Cependant, cette maladie ne
+devient nuisible qu’à partir du stade 1 nœud.
+
+Symptômes
+A l’échelle des feuilles :
+Coloration brun foncé des deux faces. Halo jaune non systématique mais caractéristique de
+la maladie. Les symptômes longent généralement les nervures. Deux formes distinctes de
+symptômes existent : en réseau et linaire, ou en tache ovale.
+
+Conditions climatiques favorables
+Les températures douces, les variations brutales de températures, une humidité élevée et la
+lumière sont favorables à la sporulation et/ou à la germination. Les spores sont véhiculées
+par le vent.
+
+Leviers agronomiques
+
+Méthode d’observation
+Prélever 20 plantes  N’observer que les tiges les plus développées (maître brin) de chaque plante  Observer
+les 3 dernières feuilles développées du moment (les plus jeunes formées, limbe déroulé)  Compter le nombre
+de F3, F2, F1 touchées (60 feuilles au total)  Convertir en %.
+Directeur de publication : Jean-Pierre LEVEILLARD, Président de la Chambre régionale d’agriculture du Centre
+13 avenue des Droits de l’Homme – 45921 ORLEANS
+Ce bulletin est produit à partir d’observations ponctuelles. Il donne une tendance de la situation sanitaire régionale, qui ne peut pas être transposée telle quelle à la parcelle.
+La Chambre régionale d’agriculture du Centre dégage donc toute responsabilité quant aux décisions prises par les agriculteurs pour la protection de leurs cultures.
+
+17
+
+BSV Céréales à paille N° 13
+
+Résistances des variétés
+Echelle de la résistance des variétés d’orge d’hiver à l’helminthosporiose
+Source : ARVALIS - Institut du végétal
+Orges 2 rangs
+
+ESCOURGEONS
+
+(BERLINE)
+
+BAGOO
+
+HENRIETTE
+
+HOBBIT
+
+OTTO
+
+DOMINO
+
+SY BAMBOO
+
+(TOOTY)
+
+KWS Cassia
+
+TATOO
+
+KWS Orwell
+
+MANGOO
+
+SMOOTH
+
+JENNY
+
+(California)
+
+AMISTAR
+
+CERVOISE ISOCEL
+
+QUADRIGA
+
+TEKTOO
+
+Augusta
+Vanessa
+Albertine Calypso
+KWS Infinity
+
+CASINO
+
+ETINCEL
+
+JALLON
+
+KWS TONIC
+
+PASSEREL
+
+Campanile
+
+DETROIT
+
+JOKER
+
+MAGISTRAL
+
+(VOYEL)
+
+Himalaya
+Imax KWS Glacier
+Salamandre
+
+ABONDANCE LIMPID
+KETOS
+ESTEREL
+
+Maltesse
+
+Caravan
+
+Sandra
+
+Ordinale
+
+TOUAREG
+
+() : à confirmer
+En gras : variétés à orientation brassicole
+Source : essais pluriannuels, 17 en 2015
+
+Les plus sensibles
+
+Retour
+Helminthosporiose Orge d’hiver
+
+Directeur de publication : Jean-Pierre LEVEILLARD, Président de la Chambre régionale d’agriculture du Centre
+13 avenue des Droits de l’Homme – 45921 ORLEANS
+Ce bulletin est produit à partir d’observations ponctuelles. Il donne une tendance de la situation sanitaire régionale, qui ne peut pas être transposée telle quelle à la parcelle.
+La Chambre régionale d’agriculture du Centre dégage donc toute responsabilité quant aux décisions prises par les agriculteurs pour la protection de leurs cultures.
+
+18
+
+BSV Céréales à paille N° 13
+
+Rouille Naine
+Stades d’apparition
+Généralement à la fin de la montaison pour les variétés sensibles. Des pustules peuvent être
+observées en hiver, en particulier si celui-ci est très doux et les semis précoces.
+
+Symptômes
+A l’échelle de la parcelle :
+La répartition est homogène dans la parcelle (dissémination par le vent).
+A l’échelle des feuilles :
+Pustules allant du brun au brun orangé, dispersées sur la feuille, essentiellement sur la face
+supérieure. Les quelques pustules du début d’attaque peuvent générer des centaines de
+pustules, si le climat est chaud et humide.
+
+Conditions climatiques favorables
+Ce champignon a besoin d'eau libre pour la germination des spores et son cycle est favorisé
+par des températures comprises entre 15 et 20°C.
+
+Leviers agronomiques
+
+Méthode d’observation
+Prélever 20 plantes  N’observer que les tiges les plus développées (maître brin) de chaque plante  Observer
+les 3 dernières feuilles développées du moment (les plus jeunes formées, limbe déroulé)  Compter le nombre
+de F3, F2, F1 touchées (60 feuilles au total)  Convertir en %.
+Directeur de publication : Jean-Pierre LEVEILLARD, Président de la Chambre régionale d’agriculture du Centre
+13 avenue des Droits de l’Homme – 45921 ORLEANS
+Ce bulletin est produit à partir d’observations ponctuelles. Il donne une tendance de la situation sanitaire régionale, qui ne peut pas être transposée telle quelle à la parcelle.
+La Chambre régionale d’agriculture du Centre dégage donc toute responsabilité quant aux décisions prises par les agriculteurs pour la protection de leurs cultures.
+
+19
+
+BSV Céréales à paille N° 13
+
+Résistances des variétés
+Echelle de la résistance des variétés d’orge d’hiver à la rouille naine
+Source : ARVALIS - Institut du végétal
+Orges 2 rangs
+
+ESCOURGEONS
+BERLINE
+
+DOMINO
+
+HENRIETTE
+
+Imax
+
+Calypso
+
+BAGOO
+
+DETROIT
+
+JALLON
+
+Augusta
+
+KWS Orwell
+
+MAGISTRAL
+
+(MARMARA)
+
+KWS Cassia
+
+ETINCEL
+
+(TOOTY)
+
+KWS Infinity
+
+KWS TONIC
+
+SHANGRILA
+
+TEKTOO
+
+Salamandre
+
+JOKER
+
+OTTO
+
+TATOO
+
+ISOCEL JENNY
+
+CASINO
+
+(Albertine)
+
+Campanile
+
+KWS Glacier
+
+Vanessa
+
+HOBBIT
+KETOS
+
+ABONDANCE
+
+CERVOISE
+
+MANGOO
+
+TOUAREG
+
+SY BAMBOO
+
+VOLUME
+
+AMISTAR
+
+SMOOTH
+
+Caravan
+
+PASSEREL
+ESTEREL
+
+QUADRIGA
+
+VOYEL
+
+En gras : variétés à orientation brassicole
+
+California
+
+Maltesse
+
+Les plus sensibles
+
+() : à confirmer
+Source : essais pluriannuels, 14 essais 2015
+
+Echelle de la résistance des variétés d’orge de printemps à la rouille naine
+Source : ARVALIS - Institut du végétal
+
+Retour
+Rouille Naine Orge d’hiver
+Rouille Naine Orge de printemps
+
+Directeur de publication : Jean-Pierre LEVEILLARD, Président de la Chambre régionale d’agriculture du Centre
+13 avenue des Droits de l’Homme – 45921 ORLEANS
+Ce bulletin est produit à partir d’observations ponctuelles. Il donne une tendance de la situation sanitaire régionale, qui ne peut pas être transposée telle quelle à la parcelle.
+La Chambre régionale d’agriculture du Centre dégage donc toute responsabilité quant aux décisions prises par les agriculteurs pour la protection de leurs cultures.
+
+20
+
+
